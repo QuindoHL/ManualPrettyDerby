@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Beat the Uma Finals",
+    "victory": true,
+    "region": "Hard",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:5| AND |@Training Alt:6|"
+  },
+  {
+    "name": "Career End A",
+    "region": "Rare",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:5| AND |@Training Alt:6|"
+  },
+  {
+    "name": "Career End B",
+    "region": "Hard",
+    "category": [],
+    "requires": "|@Uma|  AND |@Training:4| AND |@Training Alt:5|"
+  },
+  {
+    "name": "Career End C",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:4| AND |@Training Alt:5|"
+  },
+  {
+    "name": "Career End D",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:3| AND |@Training Alt:4|"
+  },
+  {
+    "name": "Career End E",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:2| AND |@Training Alt:3|"
+  },
+  {
+    "name": "Career End F",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Career End G",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement, 1st",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement, 2nd",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 3rd",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 4th",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma|"
+  },
+  {
+    "name": "Failed Speed Training",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training|"
+  },
+  {
+    "name": "Failed Stamina Training",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:2|"
+  },
+  {
+    "name": "Failed Power Training",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:3|"
+  },
+  {
+    "name": "Failed Guts Training",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:4|"
+  },
+  {
+    "name": "Failed Wit Training",
+    "region": "Easy",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:5|"
+  },
+  {
+    "name": " Beach Failed Speed Training",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training|"
+  },
+  {
+    "name": "Beacg Failed Stamina Training",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:2|"
+  },
+  {
+    "name": "Beach Failed Power Training",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:3|"
+  },
+  {
+    "name": "Beach Failed Guts Training",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:4|"
+  },
+  {
+    "name": "Beach Failed Wit Training",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training:5|"
+  },
+  {
+    "name": "Failed Infirmiry Recovery",
+    "region": "Hard",
+    "category": [],
+    "requires": "|@Uma| AND |@Training Alt:5|"
+  },
+  {
+    "name": "Succeed Infirmiry Recovery",
+    "region": "Hard",
+    "category": [],
+    "requires": "|@Uma| AND |@Training Alt:5|"
+  },
+  {
+    "name": "Acupunture Success",
+    "region": "Complete Luck",
+    "category": [],
+    "requires": "|@Uma|"
+  },
+  {
+    "name": "Get Hot Springs Ticket",
+    "region": "Complete Luck",
+    "category": [],
+    "requires": "|@Uma|"
+  },
+  {
+    "name": "1200 Skill",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Kicked By Goldship",
+    "region": "Medium",
+    "category": [],
+    "requires": "|Gold Ship| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Log into the Game",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Play Bakushin on the Jukebox",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Daily Race 1",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Daily Race 2",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Daily Race 3",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Team Race 1",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Team Race 2",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Team Race 3",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Team Race 4",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do your Team Race 5",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Watch a Concert",
+    "region": "Easy",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Start a Career",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 5th",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 6th",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 7th",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 8th",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 9th",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Race Placement 10th",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Win a G1 Race",
+    "region": "Medium",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Win a G2 Race",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Win a G3 Race",
+    "category": [],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "Do a 1x Uma Gacha",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Do a 1x Support Gacha",
+    "category": [],
+    "requires": []
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "UmamusumePrettyDerby",
+  "creator": "Quindo",
+  "filler_item_name": "Broken Horseshoe",
+  "starting_items": []
+}

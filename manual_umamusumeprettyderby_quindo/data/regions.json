@@ -1,0 +1,30 @@
+{
+  "Easy": {
+    "starting": true,
+    "connects_to": [
+      "Medium"
+    ],
+    "requires": "Uma:1, Training, Training Alt"
+  },
+  "Medium": {
+    "connects_to": [
+      "Hard"
+    ],
+    "requires": "Uma:1"
+  },
+  "Hard": {
+    "connects_to": [
+      "Rare",
+      "Complete Luck"
+    ],
+    "requires": "Uma:1"
+  },
+  "Complete Luck": {
+    "connects_to": [],
+    "requires": "Uma:1"
+  },
+  "Rare": {
+    "connects_to": [],
+    "requires": "Uma:1"
+  }
+}
