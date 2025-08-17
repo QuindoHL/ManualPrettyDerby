@@ -4,20 +4,20 @@
     "connects_to": [
       "Medium"
     ],
-    "requires": "Uma:1, Training, Training Alt"
+    "requires": ""
   },
   "Medium": {
     "connects_to": [
       "Hard"
     ],
-    "requires": "Uma:1"
+    "requires": "|@Uma| AND |@Training:2| AND |@Training Alt:2|"
   },
   "Hard": {
     "connects_to": [
       "Rare",
       "Complete Luck"
     ],
-    "requires": "Uma:1"
+    "requires": "|@Uma| AND |@Training:4| AND |@Training Alt:4|"
   },
   "Complete Luck": {
     "connects_to": [],
