@@ -10,14 +10,14 @@
     "connects_to": [
       "Hard"
     ],
-    "requires": "|@Uma| AND |@Training:4| AND |@Training Alt:4|"
+    "requires": "|@Uma| AND |@TrainingSpeed| AND |@TrainingWit| AND |@TrainingStamina| AND |@TrainingPower| AND |@TrainingRest|"
   },
   "Hard": {
     "connects_to": [
       "Rare",
       "Complete Luck"
     ],
-    "requires": "|@Uma| AND |@Training:4| AND |@Training Alt:4|"
+    "requires": "|@Uma| AND |@TrainingGuts| AND |@TrainingRest| AND |@TrainingSkills| AND |@TrainingRacing|"
   },
   "Complete Luck": {
     "connects_to": [],

@@ -1,6 +1,6 @@
 [
   {
-    "count": "5",
+    "count": "2",
     "name": "Career None Finals Race Skip",
     "category": [
       "UI"
@@ -16,18 +16,92 @@
     "useful": true
   },
   {
-    "count": "10",
-    "name": "Progressive Stat Training",
+    "count": "2",
+    "name": "Stat Training Speed",
     "category": [
+      "TrainingSpeed",
       "Training"
     ],
     "progression": true
   },
   {
-    "count": "8",
-    "name": "Progressive Training Alternatives",
+    "count": "2",
+    "name": "Stat Training Stamina",
     "category": [
-      "Training Alt"
+      "TrainingStamina",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Stat Training Power",
+    "category": [
+      "TrainingPower",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stat Training Guts",
+    "category": [
+      "TrainingGuts",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Stat Training Wit",
+    "category": [
+      "TrainingWit",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Rest Training",
+    "category": [
+      "TrainingRest",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Skill Training",
+    "category": [
+      "TrainingSkills",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Infirmary Training",
+    "category": [
+      "TrainingInfirmary",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Recreation Training",
+    "category": [
+      "TrainingRecreation",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Racing Training",
+    "category": [
+      "TrainingRacing",
+      "Training"
     ],
     "progression": true
   },
