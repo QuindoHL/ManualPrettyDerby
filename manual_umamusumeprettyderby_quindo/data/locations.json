@@ -4,7 +4,7 @@
     "victory": true,
     "region": "Hard",
     "category": ["Career Result"],
-    "requires": "|@Uma| AND |@Training:5| AND |@Training Alt:6|"
+    "requires": "(|@Uma| AND |@Training:5| AND |@Training Alt:6|) OR (|SuperUma| AND |@Training:5| AND |@Training Alt:6|)"
   },
   {
     "name": "Career End = A",
@@ -49,88 +49,16 @@
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
   },
   {
-    "name": "Race Placement, 1st",
-    "region": "Easy",
-    "category": ["Race Result"],
-    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
-  },
-  {
-    "name": "Race Placement, 2nd",
-    "region": "Easy",
-    "category": ["Race Result"],
-    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
-  },
-  {
-    "name": "Race Placement 3rd",
-    "region": "Easy",
-    "category": ["Race Result"],
-    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
-  },
-  {
-    "name": "Race Placement 4th",
-    "region": "Easy",
-    "category": ["Race Result"],
-    "requires": "|@Uma|"
-  },
-  {
-    "name": "Failed Speed Training",
+    "name": "Failed Training",
     "region": "Easy",
     "category": ["Training Result"],
     "requires": "|@Uma| AND |@Training|"
   },
   {
-    "name": "Failed Stamina Training",
-    "region": "Easy",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:2|"
-  },
-  {
-    "name": "Failed Power Training",
-    "region": "Easy",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:3|"
-  },
-  {
-    "name": "Failed Guts Training",
-    "region": "Easy",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:4|"
-  },
-  {
-    "name": "Failed Wit Training",
-    "region": "Easy",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:5|"
-  },
-  {
-    "name": " Beach Failed Speed Training",
+    "name": "Beach Failed Training",
     "region": "Medium",
     "category": ["Training Result"],
     "requires": "|@Uma| AND |@Training|"
-  },
-  {
-    "name": "Beach Failed Stamina Training",
-    "region": "Medium",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:2|"
-  },
-  {
-    "name": "Beach Failed Power Training",
-    "region": "Medium",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:3|"
-  },
-  {
-    "name": "Beach Failed Guts Training",
-    "region": "Medium",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:4|"
-  },
-  {
-    "name": "Beach Failed Wit Training",
-    "region": "Medium",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training:5|"
   },
   {
     "name": "Failed Infirmiry Recovery",
@@ -157,7 +85,43 @@
     "requires": "|@Uma|"
   },
   {
+    "name": "200 Skill",
+    "region": "Easy",
+    "category": ["Misc"],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "400 Skill",
+    "region": "Medium",
+    "category": ["Misc"],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+   {
+    "name": "600 Skill",
+    "region": "Medium",
+    "category": ["Misc"],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
+    "name": "800 Skill",
+    "region": "Medium",
+    "category": ["Misc"],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+    {
+    "name": "1000 Skill",
+    "region": "Medium",
+    "category": ["Misc"],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+  {
     "name": "1200 Skill",
+    "region": "Medium",
+    "category": ["Misc"],
+    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
+  },
+    {
+    "name": "Claw Machine",
     "region": "Medium",
     "category": ["Misc"],
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
@@ -199,31 +163,31 @@
     "requires": []
   },
   {
-    "name": "Do your Team Race 1",
+    "name": "Do a Team Race 1 (Skip Races)",
     "region": "Easy",
     "category": ["Freebie"],
     "requires": []
   },
-  {
-    "name": "Do your Team Race 2",
+    {
+    "name": "Do a Team Race 2 (Skip Races)",
     "region": "Easy",
     "category": ["Freebie"],
     "requires": []
   },
-  {
-    "name": "Do your Team Race 3",
+    {
+    "name": "Do a Team Race 3 (Skip Races)",
     "region": "Easy",
     "category": ["Freebie"],
     "requires": []
   },
-  {
-    "name": "Do your Team Race 4",
+    {
+    "name": "Do a Team Race 4 (Skip Races)",
     "region": "Easy",
     "category": ["Freebie"],
     "requires": []
   },
-  {
-    "name": "Do your Team Race 5",
+    {
+    "name": "Do a Team Race 5 (Skip Races)",
     "region": "Easy",
     "category": ["Freebie"],
     "requires": []
@@ -240,32 +204,31 @@
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
   },
   {
-    "name": "Race Placement 5th",
+    "name": "Race Placement, 1st",
+    "region": "Easy",
     "category": ["Race Result"],
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
   },
   {
-    "name": "Race Placement 6th",
+    "name": "Race Placement 2nd-4th",
+    "region": "Easy",
+    "category": ["Race Result"],
+    "requires": "|@Uma|"
+  },
+  {
+    "name": "Race Placement 10th-5th",
     "category": ["Race Result"],
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
   },
   {
-    "name": "Race Placement 7th",
+    "name": "Win a pre-OP Race",
+    "region": "Easy",
     "category": ["Race Result"],
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
   },
-  {
-    "name": "Race Placement 8th",
-    "category": ["Race Result"],
-    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
-  },
-  {
-    "name": "Race Placement 9th",
-    "category": ["Race Result"],
-    "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
-  },
-  {
-    "name": "Race Placement 10th",
+    {
+    "name": "Win a OP Race",
+    "region": "Easy",
     "category": ["Race Result"],
     "requires": "|@Uma| AND |@Training| AND |@Training Alt|"
   },

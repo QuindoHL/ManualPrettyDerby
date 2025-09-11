@@ -10,7 +10,7 @@
     "connects_to": [
       "Hard"
     ],
-    "requires": "|@Uma| AND |@Training:2| AND |@Training Alt:2|"
+    "requires": "|@Uma| AND |@Training:4| AND |@Training Alt:4|"
   },
   "Hard": {
     "connects_to": [

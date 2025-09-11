@@ -1,11 +1,35 @@
 [
   {
-    "count": "4",
-    "name": "Progressive Skip",
+    "count": "5",
+    "name": "Career None Finals Race Skip",
     "category": [
       "UI"
     ],
     "useful": true
+  },
+    {
+    "count": "4",
+    "name": "Progressive Alarm Clock",
+    "category": [
+      "UI"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Progressive Stat Training",
+    "category": [
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Progressive Training Alternatives",
+    "category": [
+      "Training Alt"
+    ],
+    "progression": true
   },
   {
     "count": 1,
@@ -155,7 +179,8 @@
     "count": 1,
     "name": "Sakura Bakushin O",
     "category": [
-      "Uma"
+      "Uma", 
+      "SuperUma"
     ],
     "progression": true
   },
@@ -226,30 +251,8 @@
   {
     "count": 1,
     "name": "Winning Ticket",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": "4",
-    "name": "Progressive Alarm Clock",
     "category": [
-      "UI"
-    ],
-    "useful": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Stat Training",
-    "category": [
-      "Training"
-    ],
-    "progression": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Training Alternatives",
-    "category": [
-      "Training Alt"
+      "Uma"
     ],
     "progression": true
   }
