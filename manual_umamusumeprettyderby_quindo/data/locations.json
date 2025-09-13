@@ -96,12 +96,6 @@
     "category": ["Training Result"],
     "requires": "|@Uma| AND |@Training|"
   },
-    {
-    "name": "Failed Training",
-    "region": "Easy",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@Training|"
-  },
   {
     "name": "Succeed Infirmiry Recovery",
     "region": "Hard",
