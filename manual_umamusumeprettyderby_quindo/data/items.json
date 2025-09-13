@@ -16,7 +16,7 @@
     "useful": true
   },
   {
-    "count": "2",
+    "count": "1",
     "name": "Stat Training Speed",
     "category": [
       "TrainingSpeed",
@@ -25,7 +25,7 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": "1",
     "name": "Stat Training Stamina",
     "category": [
       "TrainingStamina",
@@ -34,7 +34,7 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": "1",
     "name": "Stat Training Power",
     "category": [
       "TrainingPower",
@@ -52,7 +52,7 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": "1",
     "name": "Stat Training Wit",
     "category": [
       "TrainingWit",
@@ -67,7 +67,8 @@
       "TrainingRest",
       "Training"
     ],
-    "progression": true
+    "progression": true,
+    "early": true
   },
   {
     "count": "2",
@@ -124,6 +125,14 @@
   {
     "count": 1,
     "name": "Biwa Hayahide",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
+    {
+    "count": 1,
+    "name": "Curren Chan",
     "category": [
       "Uma"
     ],
@@ -228,6 +237,22 @@
     ],
     "progression": true
   },
+    {
+    "count": 1,
+    "name": "Narita Brian",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Narita Taishin",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
   {
     "count": 1,
     "name": "Nice Nature",
@@ -261,9 +286,25 @@
     ],
     "progression": true
   },
+    {
+    "count": 1,
+    "name": "Seiun Sky",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
   {
     "count": 1,
     "name": "Silence Suzuka",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
+    {
+    "count": 1,
+    "name": "Smart Falcon",
     "category": [
       "Uma"
     ],
