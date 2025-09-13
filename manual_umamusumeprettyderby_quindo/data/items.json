@@ -70,7 +70,7 @@
     "progression": true
   },
   {
-    "count": "1",
+    "count": "2",
     "name": "Skill Training",
     "category": [
       "TrainingSkills",
@@ -133,7 +133,8 @@
     "count": 1,
     "name": "Daiwa Scarlet",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
@@ -149,7 +150,8 @@
     "count": 1,
     "name": "Gold Ship",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
@@ -165,7 +167,8 @@
     "count": 1,
     "name": "Haru Urara",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
@@ -318,7 +321,8 @@
     "count": 1,
     "name": "Vodka",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },

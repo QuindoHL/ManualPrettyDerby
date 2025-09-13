@@ -70,13 +70,43 @@
     "name": "Failed Infirmiry Recovery",
     "region": "Hard",
     "category": ["Training Result"],
-    "requires": "|@Uma| AND |@TrainingRest:5|"
+    "requires": "|@Uma| AND |@TrainingInfirmary|"
+  },
+  {
+    "name": "Facility Level 2",
+    "region": "Easy",
+    "category": ["Training Result"],
+    "requires": "|@Uma| AND |@Training|"
+  },
+    {
+    "name": "Facility Level 3",
+    "region": "Medium",
+    "category": ["Training Result"],
+    "requires": "|@Uma| AND |@Training|"
+  },
+    {
+    "name": "Facility Level 4",
+    "region": "Medium",
+    "category": ["Training Result"],
+    "requires": "|@Uma| AND |@Training|"
+  },
+    {
+    "name": "Facility Level 5",
+    "region": "Hard",
+    "category": ["Training Result"],
+    "requires": "|@Uma| AND |@Training|"
+  },
+    {
+    "name": "Failed Training",
+    "region": "Easy",
+    "category": ["Training Result"],
+    "requires": "|@Uma| AND |@Training|"
   },
   {
     "name": "Succeed Infirmiry Recovery",
     "region": "Hard",
     "category": ["Training Result"],
-    "requires": "|@Uma| AND |@TrainingRest:5|"
+    "requires": "|@Uma| AND |@TrainingInfirmary|"
   },
   {
     "name": "Acupunture Success",
@@ -340,6 +370,18 @@
     "name": "Quad Friendship Training Success",
     "region": "Rare",
     "category": ["Friendship"],
+    "requires": "|@Uma| AND |@Training| AND |@TrainingRest|"
+  },
+  {
+    "name": "Inspiration 1",
+    "region": "Medium",
+    "category": ["Inspiration"],
+    "requires": "|@Uma| AND |@Training| AND |@TrainingRest|"
+  },
+  {
+    "name": "Inspiration 2",
+    "region": "Medium",
+    "category": ["Inspiration"],
     "requires": "|@Uma| AND |@Training| AND |@TrainingRest|"
   }
   
