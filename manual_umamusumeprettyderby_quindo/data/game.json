@@ -3,5 +3,14 @@
   "game": "UmamusumePrettyDerby",
   "creator": "Quindo",
   "filler_item_name": "Broken Horseshoe",
-  "starting_items": []
+  "starting_items": [
+    {
+        "item_categories": ["starting_uma"],
+        "random": 1
+    },
+    {
+        "item_categories": ["Training"],
+        "random": 2
+    }
+  ]
 }

@@ -1,11 +1,110 @@
 [
   {
-    "count": "4",
-    "name": "Progressive Skip",
+    "count": "2",
+    "name": "Career None Finals Race Skip",
     "category": [
       "UI"
     ],
     "useful": true
+  },
+    {
+    "count": "4",
+    "name": "Progressive Alarm Clock",
+    "category": [
+      "UI"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Stat Training Speed",
+    "category": [
+      "TrainingSpeed",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stat Training Stamina",
+    "category": [
+      "TrainingStamina",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stat Training Power",
+    "category": [
+      "TrainingPower",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stat Training Guts",
+    "category": [
+      "TrainingGuts",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stat Training Wit",
+    "category": [
+      "TrainingWit",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Rest Training",
+    "category": [
+      "TrainingRest",
+      "Training"
+    ],
+    "progression": true,
+    "early": true
+  },
+  {
+    "count": "2",
+    "name": "Skill Training",
+    "category": [
+      "TrainingSkills",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Infirmary Training",
+    "category": [
+      "TrainingInfirmary",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Recreation Training",
+    "category": [
+      "TrainingRecreation",
+      "Training"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Racing Training",
+    "category": [
+      "TrainingRacing",
+      "Training"
+    ],
+    "progression": true
   },
   {
     "count": 1,
@@ -31,11 +130,20 @@
     ],
     "progression": true
   },
+    {
+    "count": 1,
+    "name": "Curren Chan",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
   {
     "count": 1,
     "name": "Daiwa Scarlet",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
@@ -51,7 +159,8 @@
     "count": 1,
     "name": "Gold Ship",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
@@ -67,7 +176,8 @@
     "count": 1,
     "name": "Haru Urara",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
@@ -127,6 +237,22 @@
     ],
     "progression": true
   },
+    {
+    "count": 1,
+    "name": "Narita Brian",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Narita Taishin",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
   {
     "count": 1,
     "name": "Nice Nature",
@@ -155,6 +281,15 @@
     "count": 1,
     "name": "Sakura Bakushin O",
     "category": [
+      "Uma", 
+      "SuperUma"
+    ],
+    "progression": true
+  },
+    {
+    "count": 1,
+    "name": "Seiun Sky",
+    "category": [
       "Uma"
     ],
     "progression": true
@@ -162,6 +297,14 @@
   {
     "count": 1,
     "name": "Silence Suzuka",
+    "category": [
+      "Uma"
+    ],
+    "progression": true
+  },
+    {
+    "count": 1,
+    "name": "Smart Falcon",
     "category": [
       "Uma"
     ],
@@ -219,37 +362,16 @@
     "count": 1,
     "name": "Vodka",
     "category": [
-      "Uma"
+      "Uma",
+      "starting_uma"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Winning Ticket",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": "4",
-    "name": "Progressive Alarm Clock",
     "category": [
-      "UI"
-    ],
-    "useful": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Stat Training",
-    "category": [
-      "Training"
-    ],
-    "progression": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Training Alternatives",
-    "category": [
-      "Training Alt"
+      "Uma"
     ],
     "progression": true
   }
