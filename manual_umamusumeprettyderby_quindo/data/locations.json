@@ -3,7 +3,7 @@
     "name": "Beat the Uma Finals",
     "victory": true,
     "region": "Hard",
-    "category": ["Goal Only Categpry"],
+    "category": ["Goal Only Category"],
     "requires": "(|@Uma| AND |@Training:5| AND |@TrainingRest|) OR (|@SuperUma| AND |@Training:5| AND |@TrainingRest|)"
   },
   {
@@ -207,6 +207,7 @@
   },
   {
     "name": "Kicked By Goldship",
+    "yaml_option": ["Gold_Ship"],
     "region": "Medium",
     "category": ["Race Result"],
     "requires": "|Gold Ship| AND |@Training| AND |@TrainingRest|"
@@ -426,6 +427,745 @@
     "region": "Medium",
     "category": ["Inspiration"],
     "requires": "|@Uma| AND |@Training| AND |@TrainingRest|"
+  },
+
+{
+    "name": "Admire Vega Selfie",
+    "region": "Easy",
+    "category": ["Admire Vega", "Selfie"],
+    "requires": "|@Admire Vega|"
+  },
+{
+    "name": "Agnes Digital Selfie",
+    "region": "Easy",
+    "category": ["Agnes Digital", "Selfie"],
+    "requires": "|@Agnes Digital|"
+  },
+{
+    "name": "Agnes Tachyon Selfie",
+    "region": "Easy",
+    "category": ["Agnes Tachyon", "Selfie"],
+    "requires": "|@Agnes Tachyon|"
+  },
+{
+    "name": "Air Groove Selfie",
+    "region": "Easy",
+    "category": ["Air Groove", "Selfie"],
+    "requires": "|@Air Groove|"
+  },
+{
+    "name": "Air Messiah Selfie",
+    "region": "Easy",
+    "category": ["Air Messiah", "Selfie"],
+    "requires": "|@Air Messiah|"
+  },
+{
+    "name": "Air Shakur Selfie",
+    "region": "Easy",
+    "category": ["Air Shakur", "Selfie"],
+    "requires": "|@Air Shakur|"
+  },
+{
+    "name": "Aston Machan Selfie",
+    "region": "Easy",
+    "category": ["Aston Machan", "Selfie"],
+    "requires": "|@Aston Machan|"
+  },
+{
+    "name": "Bamboo Memory Selfie",
+    "region": "Easy",
+    "category": ["Bamboo Memory", "Selfie"],
+    "requires": "|@Bamboo Memory|"
+  },
+{
+    "name": "Believe Selfie",
+    "region": "Easy",
+    "category": ["Believe", "Selfie"],
+    "requires": "|@Believe|"
+  },
+{
+    "name": "Biko Pegasus Selfie",
+    "region": "Easy",
+    "category": ["Biko Pegasus", "Selfie"],
+    "requires": "|@Biko Pegasus|"
+  },
+{
+    "name": "Biwa Hayahide Selfie",
+    "region": "Easy",
+    "category": ["Biwa Hayahide", "Selfie"],
+    "requires": "|@Biwa Hayahide|"
+  },
+{
+    "name": "Bubble Gum Fellow Selfie",
+    "region": "Easy",
+    "category": ["Bubble Gum Fellow", "Selfie"],
+    "requires": "|@Bubble Gum Fellow|"
+  },
+{
+    "name": "Buena Vista Selfie",
+    "region": "Easy",
+    "category": ["Buena Vista", "Selfie"],
+    "requires": "|@Buena Vista|"
+  },
+{
+    "name": "Calstone Light O Selfie",
+    "region": "Easy",
+    "category": ["Calstone Light O", "Selfie"],
+    "requires": "|@Calstone Light O|"
+  },
+{
+    "name": "Cesario Selfie",
+    "region": "Easy",
+    "category": ["Cesario", "Selfie"],
+    "requires": "|@Cesario|"
+  },
+{
+    "name": "Cheval Grand Selfie",
+    "region": "Easy",
+    "category": ["Cheval Grand", "Selfie"],
+    "requires": "|@Cheval Grand|"
+  },
+{
+    "name": "Chrono Genesis Selfie",
+    "region": "Easy",
+    "category": ["Chrono Genesis", "Selfie"],
+    "requires": "|@Chrono Genesis|"
+  },
+{
+    "name": "Copano Rickey Selfie",
+    "region": "Easy",
+    "category": ["Copano Rickey", "Selfie"],
+    "requires": "|@Copano Rickey|"
+  },
+{
+    "name": "Curren Chan Selfie",
+    "region": "Easy",
+    "category": ["Curren Chan", "Selfie"],
+    "requires": "|@Curren Chan|"
+  },
+{
+    "name": "Daiichi Ruby Selfie",
+    "region": "Easy",
+    "category": ["Daiichi Ruby", "Selfie"],
+    "requires": "|@Daiichi Ruby|"
+  },
+{
+    "name": "Daitaku Helios Selfie",
+    "region": "Easy",
+    "category": ["Daitaku Helios", "Selfie"],
+    "requires": "|@Daitaku Helios|"
+  },
+{
+    "name": "Daiwa Scarlet Selfie",
+    "region": "Easy",
+    "category": ["Daiwa Scarlet", "Selfie"],
+    "requires": "|@Daiwa Scarlet|"
+  },
+{
+    "name": "Dantsu Flame Selfie",
+    "region": "Easy",
+    "category": ["Dantsu Flame", "Selfie"],
+    "requires": "|@Dantsu Flame|"
+  },
+{
+    "name": "Dream Journey Selfie",
+    "region": "Easy",
+    "category": ["Dream Journey", "Selfie"],
+    "requires": "|@Dream Journey|"
+  },
+{
+    "name": "Duramente Selfie",
+    "region": "Easy",
+    "category": ["Duramente", "Selfie"],
+    "requires": "|@Duramente|"
+  },
+{
+    "name": "Durandal Selfie",
+    "region": "Easy",
+    "category": ["Durandal", "Selfie"],
+    "requires": "|@Durandal|"
+  },
+{
+    "name": "Eishin Flash Selfie",
+    "region": "Easy",
+    "category": ["Eishin Flash", "Selfie"],
+    "requires": "|@Eishin Flash|"
+  },
+{
+    "name": "El Condor Pasa Selfie",
+    "region": "Easy",
+    "category": ["El Condor Pasa", "Selfie"],
+    "requires": "|@El Condor Pasa|"
+  },
+{
+    "name": "Espoir City Selfie",
+    "region": "Easy",
+    "category": ["Espoir City", "Selfie"],
+    "requires": "|@Espoir City|"
+  },
+{
+    "name": "Fenomeno Selfie",
+    "region": "Easy",
+    "category": ["Fenomeno", "Selfie"],
+    "requires": "|@Fenomeno|"
+  },
+{
+    "name": "Fine Motion Selfie",
+    "region": "Easy",
+    "category": ["Fine Motion", "Selfie"],
+    "requires": "|@Fine Motion|"
+  },
+{
+    "name": "Fuji Kiseki Selfie",
+    "region": "Easy",
+    "category": ["Fuji Kiseki", "Selfie"],
+    "requires": "|@Fuji Kiseki|"
+  },
+{
+    "name": "Furioso Selfie",
+    "region": "Easy",
+    "category": ["Furioso", "Selfie"],
+    "requires": "|@Furioso|"
+  },
+{
+    "name": "Fusaichi Pandora Selfie",
+    "region": "Easy",
+    "category": ["Fusaichi Pandora", "Selfie"],
+    "requires": "|@Fusaichi Pandora|"
+  },
+{
+    "name": "Gentildonna Selfie",
+    "region": "Easy",
+    "category": ["Gentildonna", "Selfie"],
+    "requires": "|@Gentildonna|"
+  },
+{
+    "name": "Gold City Selfie",
+    "region": "Easy",
+    "category": ["Gold City", "Selfie"],
+    "requires": "|@Gold City|"
+  },
+{
+    "name": "Gold Ship Selfie",
+    "region": "Easy",
+    "category": ["Gold Ship", "Selfie"],
+    "requires": "|@Gold Ship|"
+  },
+{
+    "name": "Gran Alegria Selfie",
+    "region": "Easy",
+    "category": ["Gran Alegria", "Selfie"],
+    "requires": "|@Gran Alegria|"
+  },
+{
+    "name": "Grass Wonder Selfie",
+    "region": "Easy",
+    "category": ["Grass Wonder", "Selfie"],
+    "requires": "|@Grass Wonder|"
+  },
+{
+    "name": "Haru Urara Selfie",
+    "region": "Easy",
+    "category": ["Haru Urara", "Selfie"],
+    "requires": "|@Haru Urara|"
+  },
+{
+    "name": "Hishi Akebono Selfie",
+    "region": "Easy",
+    "category": ["Hishi Akebono", "Selfie"],
+    "requires": "|@Hishi Akebono|"
+  },
+{
+    "name": "Hishi Amazon Selfie",
+    "region": "Easy",
+    "category": ["Hishi Amazon", "Selfie"],
+    "requires": "|@Hishi Amazon|"
+  },
+{
+    "name": "Hishi Miracle Selfie",
+    "region": "Easy",
+    "category": ["Hishi Miracle", "Selfie"],
+    "requires": "|@Hishi Miracle|"
+  },
+{
+    "name": "Hokko Tarumae Selfie",
+    "region": "Easy",
+    "category": ["Hokko Tarumae", "Selfie"],
+    "requires": "|@Hokko Tarumae|"
+  },
+{
+    "name": "Ikuno Dictus Selfie",
+    "region": "Easy",
+    "category": ["Ikuno Dictus", "Selfie"],
+    "requires": "|@Ikuno Dictus|"
+  },
+{
+    "name": "Inari One Selfie",
+    "region": "Easy",
+    "category": ["Inari One", "Selfie"],
+    "requires": "|@Inari One|"
+  },
+{
+    "name": "Ines Fujin Selfie",
+    "region": "Easy",
+    "category": ["Ines Fujin", "Selfie"],
+    "requires": "|@Ines Fujin|"
+  },
+{
+    "name": "Jungle Pocket Selfie",
+    "region": "Easy",
+    "category": ["Jungle Pocket", "Selfie"],
+    "requires": "|@Jungle Pocket|"
+  },
+{
+    "name": "K S Miracle Selfie",
+    "region": "Easy",
+    "category": ["K S Miracle", "Selfie"],
+    "requires": "|@K S Miracle|"
+  },
+{
+    "name": "Katsuragi Ace Selfie",
+    "region": "Easy",
+    "category": ["Katsuragi Ace", "Selfie"],
+    "requires": "|@Katsuragi Ace|"
+  },
+{
+    "name": "Kawakami Princess Selfie",
+    "region": "Easy",
+    "category": ["Kawakami Princess", "Selfie"],
+    "requires": "|@Kawakami Princess|"
+  },
+{
+    "name": "King Halo Selfie",
+    "region": "Easy",
+    "category": ["King Halo", "Selfie"],
+    "requires": "|@King Halo|"
+  },
+{
+    "name": "Kitasan Black Selfie",
+    "region": "Easy",
+    "category": ["Kitasan Black", "Selfie"],
+    "requires": "|@Kitasan Black|"
+  },
+{
+    "name": "Loves Only You Selfie",
+    "region": "Easy",
+    "category": ["Loves Only You", "Selfie"],
+    "requires": "|@Loves Only You|"
+  },
+{
+    "name": "Manhattan Cafe Selfie",
+    "region": "Easy",
+    "category": ["Manhattan Cafe", "Selfie"],
+    "requires": "|@Manhattan Cafe|"
+  },
+{
+    "name": "Maruzensky Selfie",
+    "region": "Easy",
+    "category": ["Maruzensky", "Selfie"],
+    "requires": "|@Maruzensky|"
+  },
+{
+    "name": "Marvelous Sunday Selfie",
+    "region": "Easy",
+    "category": ["Marvelous Sunday", "Selfie"],
+    "requires": "|@Marvelous Sunday|"
+  },
+{
+    "name": "Matikanefukukitaru Selfie",
+    "region": "Easy",
+    "category": ["Matikanefukukitaru", "Selfie"],
+    "requires": "|@Matikanefukukitaru|"
+  },
+{
+    "name": "Matikanetannhauser Selfie",
+    "region": "Easy",
+    "category": ["Matikanetannhauser", "Selfie"],
+    "requires": "|@Matikanetannhauser|"
+  },
+{
+    "name": "Mayano Top Gun Selfie",
+    "region": "Easy",
+    "category": ["Mayano Top Gun", "Selfie"],
+    "requires": "|@Mayano Top Gun|"
+  },
+{
+    "name": "Meisho Doto Selfie",
+    "region": "Easy",
+    "category": ["Meisho Doto", "Selfie"],
+    "requires": "|@Meisho Doto|"
+  },
+{
+    "name": "Mejiro Ardan Selfie",
+    "region": "Easy",
+    "category": ["Mejiro Ardan", "Selfie"],
+    "requires": "|@Mejiro Ardan|"
+  },
+{
+    "name": "Mejiro Bright Selfie",
+    "region": "Easy",
+    "category": ["Mejiro Bright", "Selfie"],
+    "requires": "|@Mejiro Bright|"
+  },
+{
+    "name": "Mejiro Dober Selfie",
+    "region": "Easy",
+    "category": ["Mejiro Dober", "Selfie"],
+    "requires": "|@Mejiro Dober|"
+  },
+{
+    "name": "Mejiro McQueen Selfie",
+    "region": "Easy",
+    "category": ["Mejiro McQueen", "Selfie"],
+    "requires": "|@Mejiro McQueen|"
+  },
+{
+    "name": "Mejiro Palmer Selfie",
+    "region": "Easy",
+    "category": ["Mejiro Palmer", "Selfie"],
+    "requires": "|@Mejiro Palmer|"
+  },
+{
+    "name": "Mejiro Ramonu Selfie",
+    "region": "Easy",
+    "category": ["Mejiro Ramonu", "Selfie"],
+    "requires": "|@Mejiro Ramonu|"
+  },
+{
+    "name": "Mejiro Ryan Selfie",
+    "region": "Easy",
+    "category": ["Mejiro Ryan", "Selfie"],
+    "requires": "|@Mejiro Ryan|"
+  },
+{
+    "name": "Mihono Boubon Selfie",
+    "region": "Easy",
+    "category": ["Mihono Boubon", "Selfie"],
+    "requires": "|@Mihono Boubon|"
+  },
+{
+    "name": "Mr C B Selfie",
+    "region": "Easy",
+    "category": ["Mr C B", "Selfie"],
+    "requires": "|@Mr C B|"
+  },
+{
+    "name": "Nakayama Festa Selfie",
+    "region": "Easy",
+    "category": ["Nakayama Festa", "Selfie"],
+    "requires": "|@Nakayama Festa|"
+  },
+{
+    "name": "Narita Brian Selfie",
+    "region": "Easy",
+    "category": ["Narita Brian", "Selfie"],
+    "requires": "|@Narita Brian|"
+  },
+{
+    "name": "Narita Taishin Selfie",
+    "region": "Easy",
+    "category": ["Narita Taishin", "Selfie"],
+    "requires": "|@Narita Taishin|"
+  },
+{
+    "name": "Narita Top Road Selfie",
+    "region": "Easy",
+    "category": ["Narita Top Road", "Selfie"],
+    "requires": "|@Narita Top Road|"
+  },
+{
+    "name": "Neo Universe Selfie",
+    "region": "Easy",
+    "category": ["Neo Universe", "Selfie"],
+    "requires": "|@Neo Universe|"
+  },
+{
+    "name": "Nice Nature Selfie",
+    "region": "Easy",
+    "category": ["Nice Nature", "Selfie"],
+    "requires": "|@Nice Nature|"
+  },
+{
+    "name": "Nishino Flower Selfie",
+    "region": "Easy",
+    "category": ["Nishino Flower", "Selfie"],
+    "requires": "|@Nishino Flower|"
+  },
+{
+    "name": "No Reason Selfie",
+    "region": "Easy",
+    "category": ["No Reason", "Selfie"],
+    "requires": "|@No Reason|"
+  },
+{
+    "name": "North Flight Selfie",
+    "region": "Easy",
+    "category": ["North Flight", "Selfie"],
+    "requires": "|@North Flight|"
+  },
+{
+    "name": "Oguri Cap Selfie",
+    "region": "Easy",
+    "category": ["Oguri Cap", "Selfie"],
+    "requires": "|@Oguri Cap|"
+  },
+{
+    "name": "Orfevre Selfie",
+    "region": "Easy",
+    "category": ["Orfevre", "Selfie"],
+    "requires": "|@Orfevre|"
+  },
+{
+    "name": "Rhein Kraft Selfie",
+    "region": "Easy",
+    "category": ["Rhein Kraft", "Selfie"],
+    "requires": "|@Rhein Kraft|"
+  },
+{
+    "name": "Rice Shower Selfie",
+    "region": "Easy",
+    "category": ["Rice Shower", "Selfie"],
+    "requires": "|@Rice Shower|"
+  },
+{
+    "name": "Sakura Bakushin O Selfie",
+    "region": "Easy",
+    "category": ["Sakura Bakushin O", "Selfie"],
+    "requires": "|@Sakura Bakushin O|"
+  },
+{
+    "name": "Sakura Chitose O Selfie",
+    "region": "Easy",
+    "category": ["Sakura Chitose O", "Selfie"],
+    "requires": "|@Sakura Chitose O|"
+  },
+{
+    "name": "Sakura Chiyono O Selfie",
+    "region": "Easy",
+    "category": ["Sakura Chiyono O", "Selfie"],
+    "requires": "|@Sakura Chiyono O|"
+  },
+{
+    "name": "Sakura Laurel Selfie",
+    "region": "Easy",
+    "category": ["Sakura Laurel", "Selfie"],
+    "requires": "|@Sakura Laurel|"
+  },
+{
+    "name": "Satono Crown Selfie",
+    "region": "Easy",
+    "category": ["Satono Crown", "Selfie"],
+    "requires": "|@Satono Crown|"
+  },
+{
+    "name": "Satono Diamond Selfie",
+    "region": "Easy",
+    "category": ["Satono Diamond", "Selfie"],
+    "requires": "|@Satono Diamond|"
+  },
+{
+    "name": "Seeking the Pearl Selfie",
+    "region": "Easy",
+    "category": ["Seeking the Pearl", "Selfie"],
+    "requires": "|@Seeking the Pearl|"
+  },
+{
+    "name": "Seiun Sky Selfie",
+    "region": "Easy",
+    "category": ["Seiun Sky", "Selfie"],
+    "requires": "|@Seiun Sky|"
+  },
+{
+    "name": "Shinko Windy Selfie",
+    "region": "Easy",
+    "category": ["Shinko Windy", "Selfie"],
+    "requires": "|@Shinko Windy|"
+  },
+{
+    "name": "Silence Suzuka Selfie",
+    "region": "Easy",
+    "category": ["Silence Suzuka", "Selfie"],
+    "requires": "|@Silence Suzuka|"
+  },
+{
+    "name": "Sirius Symboli Selfie",
+    "region": "Easy",
+    "category": ["Sirius Symboli", "Selfie"],
+    "requires": "|@Sirius Symboli|"
+  },
+{
+    "name": "Smart Falcon Selfie",
+    "region": "Easy",
+    "category": ["Smart Falcon", "Selfie"],
+    "requires": "|@Smart Falcon|"
+  },
+{
+    "name": "Sounds of Earth Selfie",
+    "region": "Easy",
+    "category": ["Sounds of Earth", "Selfie"],
+    "requires": "|@Sounds of Earth|"
+  },
+{
+    "name": "Special Week Selfie",
+    "region": "Easy",
+    "category": ["Special Week", "Selfie"],
+    "requires": "|@Special Week|"
+  },
+{
+    "name": "Stay Gold Selfie",
+    "region": "Easy",
+    "category": ["Stay Gold", "Selfie"],
+    "requires": "|@Stay Gold|"
+  },
+{
+    "name": "Still In Love Selfie",
+    "region": "Easy",
+    "category": ["Still In Love", "Selfie"],
+    "requires": "|@Still In Love|"
+  },
+{
+    "name": "Super Creek Selfie",
+    "region": "Easy",
+    "category": ["Super Creek", "Selfie"],
+    "requires": "|@Super Creek|"
+  },
+{
+    "name": "Sweep Tosho Selfie",
+    "region": "Easy",
+    "category": ["Sweep Tosho", "Selfie"],
+    "requires": "|@Sweep Tosho|"
+  },
+{
+    "name": "Symboli Kris S Selfie",
+    "region": "Easy",
+    "category": ["Symboli Kris S", "Selfie"],
+    "requires": "|@Symboli Kris S|"
+  },
+{
+    "name": "Symboli Rudolf Selfie",
+    "region": "Easy",
+    "category": ["Symboli Rudolf", "Selfie"],
+    "requires": "|@Symboli Rudolf|"
+  },
+{
+    "name": "Taiki Shuttle Selfie",
+    "region": "Easy",
+    "category": ["Taiki Shuttle", "Selfie"],
+    "requires": "|@Taiki Shuttle|"
+  },
+{
+    "name": "Tamamo Cross Selfie",
+    "region": "Easy",
+    "category": ["Tamamo Cross", "Selfie"],
+    "requires": "|@Tamamo Cross|"
+  },
+{
+    "name": "Tanino Gimlet Selfie",
+    "region": "Easy",
+    "category": ["Tanino Gimlet", "Selfie"],
+    "requires": "|@Tanino Gimlet|"
+  },
+{
+    "name": "Tap Dance City Selfie",
+    "region": "Easy",
+    "category": ["Tap Dance City", "Selfie"],
+    "requires": "|@Tap Dance City|"
+  },
+{
+    "name": "TM Opera O Selfie",
+    "region": "Easy",
+    "category": ["TM Opera O", "Selfie"],
+    "requires": "|@TM Opera O|"
+  },
+{
+    "name": "Tokai Teio Selfie",
+    "region": "Easy",
+    "category": ["Tokai Teio", "Selfie"],
+    "requires": "|@Tokai Teio|"
+  },
+{
+    "name": "Tosen Jordan Selfie",
+    "region": "Easy",
+    "category": ["Tosen Jordan", "Selfie"],
+    "requires": "|@Tosen Jordan|"
+  },
+{
+    "name": "Transcend Selfie",
+    "region": "Easy",
+    "category": ["Transcend", "Selfie"],
+    "requires": "|@Transcend|"
+  },
+{
+    "name": "Tsurumaru Tsuyoshi Selfie",
+    "region": "Easy",
+    "category": ["Tsurumaru Tsuyoshi", "Selfie"],
+    "requires": "|@Tsurumaru Tsuyoshi|"
+  },
+{
+    "name": "Twin Turbo Selfie",
+    "region": "Easy",
+    "category": ["Twin Turbo", "Selfie"],
+    "requires": "|@Twin Turbo|"
+  },
+{
+    "name": "Verxina Selfie",
+    "region": "Easy",
+    "category": ["Verxina", "Selfie"],
+    "requires": "|@Verxina|"
+  },
+{
+    "name": "Vivlos Selfie",
+    "region": "Easy",
+    "category": ["Vivlos", "Selfie"],
+    "requires": "|@Vivlos|"
+  },
+{
+    "name": "Vodka Selfie",
+    "region": "Easy",
+    "category": ["Vodka", "Selfie"],
+    "requires": "|@Vodka|"
+  },
+{
+    "name": "Win Variation Selfie",
+    "region": "Easy",
+    "category": ["Win Variation", "Selfie"],
+    "requires": "|@Win Variation|"
+  },
+{
+    "name": "Winning Ticket Selfie",
+    "region": "Easy",
+    "category": ["Winning Ticket", "Selfie"],
+    "requires": "|@Winning Ticket|"
+  },
+{
+    "name": "Wonder Acute Selfie",
+    "region": "Easy",
+    "category": ["Wonder Acute", "Selfie"],
+    "requires": "|@Wonder Acute|"
+  },
+{
+    "name": "Yaeno Muteki Selfie",
+    "region": "Easy",
+    "category": ["Yaeno Muteki", "Selfie"],
+    "requires": "|@Yaeno Muteki|"
+  },
+{
+    "name": "Yamanin Zephr Selfie",
+    "region": "Easy",
+    "category": ["Yamanin Zephr", "Selfie"],
+    "requires": "|@Yamanin Zephr|"
+  },
+{
+    "name": "Yukino Bijin Selfie",
+    "region": "Easy",
+    "category": ["Yukino Bijin", "Selfie"],
+    "requires": "|@Yukino Bijin|"
+  },
+{
+    "name": "Zenno Rob Roy Selfie",
+    "region": "Easy",
+    "category": ["Zenno Rob Roy", "Selfie"],
+    "requires": "|@Zenno Rob Roy|"
   }
   
 ]

@@ -8,7 +8,7 @@
     "useful": true
   },
     {
-    "count": "4",
+    "count": "5",
     "name": "Progressive Alarm Clock",
     "category": [
       "UI"
@@ -20,6 +20,7 @@
     "name": "Stat Training Speed",
     "category": [
       "TrainingSpeed",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -29,6 +30,7 @@
     "name": "Stat Training Stamina",
     "category": [
       "TrainingStamina",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -38,6 +40,7 @@
     "name": "Stat Training Power",
     "category": [
       "TrainingPower",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -47,6 +50,7 @@
     "name": "Stat Training Guts",
     "category": [
       "TrainingGuts",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -56,6 +60,7 @@
     "name": "Stat Training Wit",
     "category": [
       "TrainingWit",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -65,6 +70,7 @@
     "name": "Rest Training",
     "category": [
       "TrainingRest",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true,
@@ -84,6 +90,7 @@
     "name": "Infirmary Training",
     "category": [
       "TrainingInfirmary",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
@@ -93,6 +100,7 @@
     "name": "Recreation Training",
     "category": [
       "TrainingRecreation",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
@@ -102,6 +110,7 @@
     "name": "Racing Training G1",
     "category": [
       "TrainingRacing",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
@@ -111,6 +120,7 @@
     "name": "Racing Training G2",
     "category": [
       "TrainingRacing",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
@@ -120,6 +130,7 @@
     "name": "Racing Training G3",
     "category": [
       "TrainingRacing",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
@@ -136,1108 +147,1113 @@
 {
  "count": 1, 
 "name": "Admire Vega",
-"yaml_option":
-["Admire_Vega"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Admire Vega"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Agnes Digital",
-"yaml_option":
-["Agnes_Digital"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Agnes Digital"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Agnes Tachyon",
-"yaml_option":
-["Agnes_Tachyon"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Agnes Tachyon"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Air Groove",
-"yaml_option":
-["Air_Groove"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Air Groove"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Air Messiah",
-"yaml_option":
-["Air_Messiah"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Air Messiah"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Air Shakur",
-"yaml_option":
-["Air_Shakur"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Air Shakur"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Aston Machan",
-"yaml_option":
-["Aston_Machan"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Aston Machan"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Bamboo Memory",
-"yaml_option":
-["Bamboo_Memory"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Bamboo Memory"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Believe",
-"yaml_option":
-["Believe"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Believe"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Biko Pegasus",
-"yaml_option":
-["Biko_Pegasus"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Biko Pegasus"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Biwa Hayahide",
-"yaml_option":
-["Biwa_Hayahide"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Biwa Hayahide"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Bubble Gum Fellow",
-"yaml_option":
-["Bubble_Gum_Fellow"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Bubble Gum Fellow"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Buena Vista",
-"yaml_option":
-["Buena_Vista"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Buena Vista"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Calstone Light O",
-"yaml_option":
-["Calstone_Light_O"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Calstone Light O"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Cesario",
-"yaml_option":
-["Cesario"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Cesario"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Cheval Grand",
-"yaml_option":
-["Cheval_Grand"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Cheval Grand"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Chrono Genesis",
-"yaml_option":
-["Chrono_Genesis"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Chrono Genesis"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Copano Rickey",
-"yaml_option":
-["Copano_Rickey"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Copano Rickey"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Curren Chan",
-"yaml_option":
-["Curren_Chan"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Curren Chan"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Daiichi Ruby",
-"yaml_option":
-["Daiichi_Ruby"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Daiichi Ruby"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Daitaku Helios",
-"yaml_option":
-["Daitaku_Helios"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Daitaku Helios"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Daiwa Scarlet",
-"yaml_option":
-["Daiwa_Scarlet"],
 "category": [
-"Uma"    ],
+"Uma",
+"starting uma",
+ "Daiwa Scarlet"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Dantsu Flame",
-"yaml_option":
-["Dantsu_Flame"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Dantsu Flame"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Dream Journey",
-"yaml_option":
-["Dream_Journey"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Dream Journey"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Duramente",
-"yaml_option":
-["Duramente"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Duramente"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Durandal",
-"yaml_option":
-["Durandal"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Durandal"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Eishin Flash",
-"yaml_option":
-["Eishin_Flash"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Eishin Flash"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "El Condor Pasa",
-"yaml_option":
-["El_Condor_Pasa"],
 "category": [
-"Uma"    ],
+"Uma",
+ "El Condor Pasa"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Espoir City",
-"yaml_option":
-["Espoir_City"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Espoir City"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Fenomeno",
-"yaml_option":
-["Fenomeno"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Fenomeno"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Fine Motion",
-"yaml_option":
-["Fine_Motion"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Fine Motion"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Fuji Kiseki",
-"yaml_option":
-["Fuji_Kiseki"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Fuji Kiseki"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Furioso",
-"yaml_option":
-["Furioso"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Furioso"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Fusaichi Pandora",
-"yaml_option":
-["Fusaichi_Pandora"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Fusaichi Pandora"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Gentildonna",
-"yaml_option":
-["Gentildonna"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Gentildonna"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Gold City",
-"yaml_option":
-["Gold_City"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Gold City"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Gold Ship",
-"yaml_option":
-["Gold_Ship"],
 "category": [
-"Uma"    ],
+"Uma",
+"starting uma",
+ "Gold Ship"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Gran Alegria",
-"yaml_option":
-["Gran_Alegria"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Gran Alegria"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Grass Wonder",
-"yaml_option":
-["Grass_Wonder"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Grass Wonder"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Haru Urara",
-"yaml_option":
-["Haru_Urara"],
 "category": [
-"Uma"    ],
+"Uma",
+"starting uma",
+ "Haru Urara"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Hishi Akebono",
-"yaml_option":
-["Hishi_Akebono"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Hishi Akebono"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Hishi Amazon",
-"yaml_option":
-["Hishi_Amazon"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Hishi Amazon"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Hishi Miracle",
-"yaml_option":
-["Hishi_Miracle"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Hishi Miracle"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Hokko Tarumae",
-"yaml_option":
-["Hokko_Tarumae"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Hokko Tarumae"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Ikuno Dictus",
-"yaml_option":
-["Ikuno_Dictus"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Ikuno Dictus"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Inari One",
-"yaml_option":
-["Inari_One"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Inari One"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Ines Fujin",
-"yaml_option":
-["Ines_Fujin"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Ines Fujin"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Jungle Pocket",
-"yaml_option":
-["Jungle_Pocket"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Jungle Pocket"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "K.S. Miracle",
-"yaml_option":
-["K.S._Miracle"],
 "category": [
-"Uma"    ],
+"Uma",
+ "K S Miracle"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Katsuragi Ace",
-"yaml_option":
-["Katsuragi_Ace"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Katsuragi Ace"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Kawakami Princess",
-"yaml_option":
-["Kawakami_Princess"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Kawakami Princess"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "King Halo",
-"yaml_option":
-["King_Halo"],
 "category": [
-"Uma"    ],
+"Uma",
+ "King Halo"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Kitasan Black",
-"yaml_option":
-["Kitasan_Black"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Kitasan Black"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Loves Only You",
-"yaml_option":
-["Loves_Only_You"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Loves Only You"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Manhattan Cafe",
-"yaml_option":
-["Manhattan_Cafe"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Manhattan Cafe"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Maruzensky",
-"yaml_option":
-["Maruzensky"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Maruzensky"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Marvelous Sunday",
-"yaml_option":
-["Marvelous_Sunday"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Marvelous Sunday"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Matikanefukukitaru",
-"yaml_option":
-["Matikanefukukitaru"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Matikanefukukitaru"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Matikanetannhauser",
-"yaml_option":
-["Matikanetannhauser"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Matikanetannhauser"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mayano Top Gun",
-"yaml_option":
-["Mayano_Top_Gun"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mayano Top Gun"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Meisho Doto",
-"yaml_option":
-["Meisho_Doto"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Meisho Doto"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro Ardan",
-"yaml_option":
-["Mejiro_Ardan"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro Ardan"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro Bright",
-"yaml_option":
-["Mejiro_Bright"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro Bright"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro Dober",
-"yaml_option":
-["Mejiro_Dober"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro Dober"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro McQueen",
-"yaml_option":
-["Mejiro_McQueen"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro McQueen"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro Palmer",
-"yaml_option":
-["Mejiro_Palmer"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro Palmer"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro Ramonu",
-"yaml_option":
-["Mejiro_Ramonu"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro Ramonu"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mejiro Ryan",
-"yaml_option":
-["Mejiro_Ryan"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mejiro Ryan"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mihono Boubon",
-"yaml_option":
-["Mihono_Boubon"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mihono Boubon"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Mr. C.B.",
-"yaml_option":
-["Mr._C.B."],
 "category": [
-"Uma"    ],
+"Uma",
+ "Mr C B"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Nakayama Festa",
-"yaml_option":
-["Nakayama_Festa"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Nakayama Festa"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Narita Brian",
-"yaml_option":
-["Narita_Brian"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Narita Brian"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Narita Taishin",
-"yaml_option":
-["Narita_Taishin"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Narita Taishin"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Narita Top Road",
-"yaml_option":
-["Narita_Top_Road"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Narita Top Road"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Neo Universe",
-"yaml_option":
-["Neo_Universe"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Neo Universe"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Nice Nature",
-"yaml_option":
-["Nice_Nature"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Nice Nature"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Nishino Flower",
-"yaml_option":
-["Nishino_Flower"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Nishino Flower"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "No Reason",
-"yaml_option":
-["No_Reason"],
 "category": [
-"Uma"    ],
+"Uma",
+ "No Reason"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "North Flight",
-"yaml_option":
-["North_Flight"],
 "category": [
-"Uma"    ],
+"Uma",
+ "North Flight"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Oguri Cap",
-"yaml_option":
-["Oguri_Cap"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Oguri Cap"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Orfevre",
-"yaml_option":
-["Orfevre"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Orfevre"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Rhein Kraft",
-"yaml_option":
-["Rhein_Kraft"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Rhein Kraft"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Rice Shower",
-"yaml_option":
-["Rice_Shower"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Rice Shower"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sakura Bakushin O",
-"yaml_option":
-["Sakura_Bakushin_O"],
 "category": [
-"Uma"    ],
+"Uma",
+"SuperUma",
+ "Sakura Bakushin O"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sakura Chitose O",
-"yaml_option":
-["Sakura_Chitose_O"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Sakura Chitose O"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sakura Chiyono O",
-"yaml_option":
-["Sakura_Chiyono_O"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Sakura Chiyono O"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sakura Laurel",
-"yaml_option":
-["Sakura_Laurel"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Sakura Laurel"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Satono Crown",
-"yaml_option":
-["Satono_Crown"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Satono Crown"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Satono Diamond",
-"yaml_option":
-["Satono_Diamond"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Satono Diamond"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Seeking the Pearl",
-"yaml_option":
-["Seeking_the_Pearl"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Seeking the Pearl"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Seiun Sky",
-"yaml_option":
-["Seiun_Sky"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Seiun Sky"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Shinko Windy",
-"yaml_option":
-["Shinko_Windy"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Shinko Windy"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Silence Suzuka",
-"yaml_option":
-["Silence_Suzuka"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Silence Suzuka"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sirius Symboli",
-"yaml_option":
-["Sirius_Symboli"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Sirius Symboli"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Smart Falcon",
-"yaml_option":
-["Smart_Falcon"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Smart Falcon"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sounds of Earth",
-"yaml_option":
-["Sounds_of_Earth"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Sounds of Earth"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Special Week",
-"yaml_option":
-["Special_Week"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Special Week"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Stay Gold",
-"yaml_option":
-["Stay_Gold"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Stay Gold"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Still In Love",
-"yaml_option":
-["Still_In_Love"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Still In Love"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Super Creek",
-"yaml_option":
-["Super_Creek"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Super Creek"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Sweep Tosho",
-"yaml_option":
-["Sweep_Tosho"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Sweep Tosho"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Symboli Kris S",
-"yaml_option":
-["Symboli_Kris_S"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Symboli Kris S"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Symboli Rudolf",
-"yaml_option":
-["Symboli_Rudolf"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Symboli Rudolf"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Taiki Shuttle",
-"yaml_option":
-["Taiki_Shuttle"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Taiki Shuttle"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Tamamo Cross",
-"yaml_option":
-["Tamamo_Cross"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Tamamo Cross"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Tanino Gimlet",
-"yaml_option":
-["Tanino_Gimlet"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Tanino Gimlet"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Tap Dance City",
-"yaml_option":
-["Tap_Dance_City"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Tap Dance City"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "TM Opera O",
-"yaml_option":
-["TM_Opera_O"],
 "category": [
-"Uma"    ],
+"Uma",
+ "TM Opera O"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Tokai Teio",
-"yaml_option":
-["Tokai_Teio"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Tokai Teio"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Tosen Jordan",
-"yaml_option":
-["Tosen_Jordan"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Tosen Jordan"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Transcend",
-"yaml_option":
-["Transcend"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Transcend"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Tsurumaru Tsuyoshi",
-"yaml_option":
-["Tsurumaru_Tsuyoshi"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Tsurumaru Tsuyoshi"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Twin Turbo",
-"yaml_option":
-["Twin_Turbo"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Twin Turbo"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Verxina",
-"yaml_option":
-["Verxina"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Verxina"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Vivlos",
-"yaml_option":
-["Vivlos"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Vivlos"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Vodka",
-"yaml_option":
-["Vodka"],
 "category": [
-"Uma"    ],
+"Uma",
+"starting uma",
+ "Vodka"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Win Variation",
-"yaml_option":
-["Win_Variation"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Win Variation"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Winning Ticket",
-"yaml_option":
-["Winning_Ticket"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Winning Ticket"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Wonder Acute",
-"yaml_option":
-["Wonder_Acute"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Wonder Acute"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Yaeno Muteki",
-"yaml_option":
-["Yaeno_Muteki"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Yaeno Muteki"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Yamanin Zephr",
-"yaml_option":
-["Yamanin_Zephr"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Yamanin Zephr"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Yukino Bijin",
-"yaml_option":
-["Yukino_Bijin"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Yukino Bijin"
+ ],
 "progression": true 
 },
 {
  "count": 1, 
 "name": "Zenno Rob Roy",
-"yaml_option":
-["Zenno_Rob_Roy"],
 "category": [
-"Uma"    ],
+"Uma",
+ "Zenno Rob Roy"
+ ],
 "progression": true 
 }
 
