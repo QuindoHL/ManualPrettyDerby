@@ -11,6 +11,11 @@
     {
         "item_categories": ["Training"],
         "random": 2
+    },
+    {
+        "item_categories": ["TrainingRacingStarting"],
+        "random": 1
     }
+ 
   ]
 }

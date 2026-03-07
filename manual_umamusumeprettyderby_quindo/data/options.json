@@ -26,16 +26,1130 @@
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+"Unity_Cup":{
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Enables Unity Cup Checks"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Unity_Cup"
         },
-        "Example_Choice":{
+"Enable_Traps":{
+            "description": [
+                "Enables Traps"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Traps"
+        },
+"Admire_Vega":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Agnes_Digital":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Agnes_Tachyon":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Air_Groove":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Air_Messiah":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Air_Shakur":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Aston_Machan":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Bamboo_Memory":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Believe":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Biko_Pegasus":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Biwa_Hayahide":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Bubble_Gum_Fellow":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Buena_Vista":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Calstone_Light_O":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Cesario":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Cheval_Grand":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Chrono_Genesis":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Copano_Rickey":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Curren_Chan":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Daiichi_Ruby":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Daitaku_Helios":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Daiwa_Scarlet":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Dantsu_Flame":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Dream_Journey":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Duramente":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Durandal":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Eishin_Flash":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"El_Condor_Pasa":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Espoir_City":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Fenomeno":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Fine_Motion":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Fuji_Kiseki":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Furioso":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Fusaichi_Pandora":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Gentildonna":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Gold_City":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Gold_Ship":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Gran_Alegria":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Grass_Wonder":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Haru_Urara":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Hishi_Akebono":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Hishi_Amazon":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Hishi_Miracle":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Hokko_Tarumae":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Ikuno_Dictus":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Inari_One":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Ines_Fujin":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Jungle_Pocket":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"K.S._Miracle":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Katsuragi_Ace":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Kawakami_Princess":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"King_Halo":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Kitasan_Black":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Loves_Only_You":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Manhattan_Cafe":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Maruzensky":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Marvelous_Sunday":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Matikanefukukitaru":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Matikanetannhauser":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mayano_Top_Gun":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Meisho_Doto":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_Ardan":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_Bright":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_Dober":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_McQueen":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_Palmer":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_Ramonu":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mejiro_Ryan":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mihono_Boubon":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Mr._C.B.":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Nakayama_Festa":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Narita_Brian":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Narita_Taishin":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Narita_Top_Road":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Neo_Universe":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Nice_Nature":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Nishino_Flower":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"No_Reason":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"North_Flight":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Oguri_Cap":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Orfevre":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Rhein_Kraft":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Rice_Shower":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sakura_Bakushin_O":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sakura_Chitose_O":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sakura_Chiyono_O":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sakura_Laurel":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Satono_Crown":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Satono_Diamond":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Seeking_the_Pearl":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Seiun_Sky":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Shinko_Windy":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Silence_Suzuka":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sirius_Symboli":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Smart_Falcon":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sounds_of_Earth":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Special_Week":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Stay_Gold":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Still_In_Love":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Super_Creek":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Sweep_Tosho":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Symboli_Kris_S":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Symboli_Rudolf":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Taiki_Shuttle":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Tamamo_Cross":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Tanino_Gimlet":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Tap_Dance_City":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"TM_Opera_O":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Tokai_Teio":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Tosen_Jordan":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Transcend":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Tsurumaru_Tsuyoshi":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Twin_Turbo":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Verxina":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Vivlos":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Vodka":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Win_Variation":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Winning_Ticket":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Wonder_Acute":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Yaeno_Muteki":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Yamanin_Zephr":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Yukino_Bijin":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+"Zenno_Rob_Roy":{
+            "description": [
+                "Pleases toggle on all Uma's you have unlocked on your account",
+                "You can toggle off any Starting Uma's to remove them from the pool, 1 must be enabled by default."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Career Mode Uma's Unlocked"
+        },
+        "_Example_Choice":{
             "type": "Choice",
             "description": [
                 "This is a Choice",
@@ -51,7 +1165,7 @@
             "allow_custom_value": false,
             "group": "Example Options"
         },
-        "Example_Range":{
+        "_Example_Range":{
             "type": "Range",
             "description": [
                 "This is a Range",
@@ -66,7 +1180,7 @@
             "group": "Example Options"
         },
 
-        "DLC_enabled":{
+        "_DLC_enabled":{
             "display_name": "DLC Enabled",
             "description": "Is the Dlc enabled?",
             "type": "Toggle",

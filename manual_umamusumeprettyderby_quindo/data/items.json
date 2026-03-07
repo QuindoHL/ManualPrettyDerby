@@ -99,7 +99,16 @@
   },
   {
     "count": "1",
-    "name": "Racing Training",
+    "name": "Racing Training G1",
+    "category": [
+      "TrainingRacing",
+      "Training"
+    ],
+    "progression": true
+  },
+   {
+    "count": "1",
+    "name": "Racing Training G2",
     "category": [
       "TrainingRacing",
       "Training"
@@ -107,272 +116,1129 @@
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Agnes Tachyon",
+    "count": "1",
+    "name": "Racing Training G3",
     "category": [
-      "Uma"
+      "TrainingRacing",
+      "Training"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Air Groove",
+    "count": "1",
+    "name": "Racing Training OP/Pre-OP",
     "category": [
-      "Uma"
+      "TrainingRacingStarting",
+      "Training"
     ],
     "progression": true
   },
-  {
-    "count": 1,
-    "name": "Biwa Hayahide",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Curren Chan",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Daiwa Scarlet",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "El Condor Pasa",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Gold Ship",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Grass Wonder",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Haru Urara",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "King Halo",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Maruzensky",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Matikanefukukitaru",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mayano Top Gun",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mejiro McQueen",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mejiro Ryan",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mihono Bourbon",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Narita Brian",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Narita Taishin",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Nice Nature",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Oguri Cap",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Rice Shower",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sakura Bakushin O",
-    "category": [
-      "Uma", 
-      "SuperUma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Seiun Sky",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Silence Suzuka",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Smart Falcon",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Special Week",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Super Creek",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Symboli Rudolf",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "T.M. Opera O",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Taiki Shuttle",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Tokai Teio",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Vodka",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Winning Ticket",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  }
+{
+ "count": 1, 
+"name": "Admire Vega",
+"yaml_option":
+["Admire_Vega"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Agnes Digital",
+"yaml_option":
+["Agnes_Digital"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Agnes Tachyon",
+"yaml_option":
+["Agnes_Tachyon"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Air Groove",
+"yaml_option":
+["Air_Groove"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Air Messiah",
+"yaml_option":
+["Air_Messiah"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Air Shakur",
+"yaml_option":
+["Air_Shakur"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Aston Machan",
+"yaml_option":
+["Aston_Machan"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Bamboo Memory",
+"yaml_option":
+["Bamboo_Memory"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Believe",
+"yaml_option":
+["Believe"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Biko Pegasus",
+"yaml_option":
+["Biko_Pegasus"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Biwa Hayahide",
+"yaml_option":
+["Biwa_Hayahide"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Bubble Gum Fellow",
+"yaml_option":
+["Bubble_Gum_Fellow"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Buena Vista",
+"yaml_option":
+["Buena_Vista"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Calstone Light O",
+"yaml_option":
+["Calstone_Light_O"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Cesario",
+"yaml_option":
+["Cesario"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Cheval Grand",
+"yaml_option":
+["Cheval_Grand"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Chrono Genesis",
+"yaml_option":
+["Chrono_Genesis"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Copano Rickey",
+"yaml_option":
+["Copano_Rickey"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Curren Chan",
+"yaml_option":
+["Curren_Chan"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Daiichi Ruby",
+"yaml_option":
+["Daiichi_Ruby"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Daitaku Helios",
+"yaml_option":
+["Daitaku_Helios"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Daiwa Scarlet",
+"yaml_option":
+["Daiwa_Scarlet"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Dantsu Flame",
+"yaml_option":
+["Dantsu_Flame"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Dream Journey",
+"yaml_option":
+["Dream_Journey"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Duramente",
+"yaml_option":
+["Duramente"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Durandal",
+"yaml_option":
+["Durandal"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Eishin Flash",
+"yaml_option":
+["Eishin_Flash"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "El Condor Pasa",
+"yaml_option":
+["El_Condor_Pasa"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Espoir City",
+"yaml_option":
+["Espoir_City"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fenomeno",
+"yaml_option":
+["Fenomeno"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fine Motion",
+"yaml_option":
+["Fine_Motion"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fuji Kiseki",
+"yaml_option":
+["Fuji_Kiseki"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Furioso",
+"yaml_option":
+["Furioso"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fusaichi Pandora",
+"yaml_option":
+["Fusaichi_Pandora"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gentildonna",
+"yaml_option":
+["Gentildonna"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gold City",
+"yaml_option":
+["Gold_City"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gold Ship",
+"yaml_option":
+["Gold_Ship"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gran Alegria",
+"yaml_option":
+["Gran_Alegria"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Grass Wonder",
+"yaml_option":
+["Grass_Wonder"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Haru Urara",
+"yaml_option":
+["Haru_Urara"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hishi Akebono",
+"yaml_option":
+["Hishi_Akebono"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hishi Amazon",
+"yaml_option":
+["Hishi_Amazon"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hishi Miracle",
+"yaml_option":
+["Hishi_Miracle"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hokko Tarumae",
+"yaml_option":
+["Hokko_Tarumae"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Ikuno Dictus",
+"yaml_option":
+["Ikuno_Dictus"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Inari One",
+"yaml_option":
+["Inari_One"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Ines Fujin",
+"yaml_option":
+["Ines_Fujin"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Jungle Pocket",
+"yaml_option":
+["Jungle_Pocket"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "K.S. Miracle",
+"yaml_option":
+["K.S._Miracle"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Katsuragi Ace",
+"yaml_option":
+["Katsuragi_Ace"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Kawakami Princess",
+"yaml_option":
+["Kawakami_Princess"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "King Halo",
+"yaml_option":
+["King_Halo"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Kitasan Black",
+"yaml_option":
+["Kitasan_Black"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Loves Only You",
+"yaml_option":
+["Loves_Only_You"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Manhattan Cafe",
+"yaml_option":
+["Manhattan_Cafe"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Maruzensky",
+"yaml_option":
+["Maruzensky"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Marvelous Sunday",
+"yaml_option":
+["Marvelous_Sunday"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Matikanefukukitaru",
+"yaml_option":
+["Matikanefukukitaru"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Matikanetannhauser",
+"yaml_option":
+["Matikanetannhauser"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mayano Top Gun",
+"yaml_option":
+["Mayano_Top_Gun"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Meisho Doto",
+"yaml_option":
+["Meisho_Doto"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Ardan",
+"yaml_option":
+["Mejiro_Ardan"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Bright",
+"yaml_option":
+["Mejiro_Bright"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Dober",
+"yaml_option":
+["Mejiro_Dober"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro McQueen",
+"yaml_option":
+["Mejiro_McQueen"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Palmer",
+"yaml_option":
+["Mejiro_Palmer"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Ramonu",
+"yaml_option":
+["Mejiro_Ramonu"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Ryan",
+"yaml_option":
+["Mejiro_Ryan"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mihono Boubon",
+"yaml_option":
+["Mihono_Boubon"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mr. C.B.",
+"yaml_option":
+["Mr._C.B."],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Nakayama Festa",
+"yaml_option":
+["Nakayama_Festa"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Narita Brian",
+"yaml_option":
+["Narita_Brian"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Narita Taishin",
+"yaml_option":
+["Narita_Taishin"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Narita Top Road",
+"yaml_option":
+["Narita_Top_Road"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Neo Universe",
+"yaml_option":
+["Neo_Universe"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Nice Nature",
+"yaml_option":
+["Nice_Nature"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Nishino Flower",
+"yaml_option":
+["Nishino_Flower"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "No Reason",
+"yaml_option":
+["No_Reason"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "North Flight",
+"yaml_option":
+["North_Flight"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Oguri Cap",
+"yaml_option":
+["Oguri_Cap"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Orfevre",
+"yaml_option":
+["Orfevre"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Rhein Kraft",
+"yaml_option":
+["Rhein_Kraft"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Rice Shower",
+"yaml_option":
+["Rice_Shower"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Bakushin O",
+"yaml_option":
+["Sakura_Bakushin_O"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Chitose O",
+"yaml_option":
+["Sakura_Chitose_O"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Chiyono O",
+"yaml_option":
+["Sakura_Chiyono_O"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Laurel",
+"yaml_option":
+["Sakura_Laurel"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Satono Crown",
+"yaml_option":
+["Satono_Crown"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Satono Diamond",
+"yaml_option":
+["Satono_Diamond"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Seeking the Pearl",
+"yaml_option":
+["Seeking_the_Pearl"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Seiun Sky",
+"yaml_option":
+["Seiun_Sky"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Shinko Windy",
+"yaml_option":
+["Shinko_Windy"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Silence Suzuka",
+"yaml_option":
+["Silence_Suzuka"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sirius Symboli",
+"yaml_option":
+["Sirius_Symboli"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Smart Falcon",
+"yaml_option":
+["Smart_Falcon"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sounds of Earth",
+"yaml_option":
+["Sounds_of_Earth"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Special Week",
+"yaml_option":
+["Special_Week"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Stay Gold",
+"yaml_option":
+["Stay_Gold"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Still In Love",
+"yaml_option":
+["Still_In_Love"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Super Creek",
+"yaml_option":
+["Super_Creek"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sweep Tosho",
+"yaml_option":
+["Sweep_Tosho"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Symboli Kris S",
+"yaml_option":
+["Symboli_Kris_S"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Symboli Rudolf",
+"yaml_option":
+["Symboli_Rudolf"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Taiki Shuttle",
+"yaml_option":
+["Taiki_Shuttle"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tamamo Cross",
+"yaml_option":
+["Tamamo_Cross"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tanino Gimlet",
+"yaml_option":
+["Tanino_Gimlet"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tap Dance City",
+"yaml_option":
+["Tap_Dance_City"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "TM Opera O",
+"yaml_option":
+["TM_Opera_O"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tokai Teio",
+"yaml_option":
+["Tokai_Teio"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tosen Jordan",
+"yaml_option":
+["Tosen_Jordan"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Transcend",
+"yaml_option":
+["Transcend"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tsurumaru Tsuyoshi",
+"yaml_option":
+["Tsurumaru_Tsuyoshi"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Twin Turbo",
+"yaml_option":
+["Twin_Turbo"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Verxina",
+"yaml_option":
+["Verxina"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Vivlos",
+"yaml_option":
+["Vivlos"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Vodka",
+"yaml_option":
+["Vodka"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Win Variation",
+"yaml_option":
+["Win_Variation"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Winning Ticket",
+"yaml_option":
+["Winning_Ticket"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Wonder Acute",
+"yaml_option":
+["Wonder_Acute"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Yaeno Muteki",
+"yaml_option":
+["Yaeno_Muteki"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Yamanin Zephr",
+"yaml_option":
+["Yamanin_Zephr"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Yukino Bijin",
+"yaml_option":
+["Yukino_Bijin"],
+"category": [
+"Uma"    ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Zenno Rob Roy",
+"yaml_option":
+["Zenno_Rob_Roy"],
+"category": [
+"Uma"    ],
+"progression": true 
+}
+
 ]
