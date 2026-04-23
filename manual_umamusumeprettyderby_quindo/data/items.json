@@ -8,7 +8,7 @@
     "useful": true
   },
     {
-    "count": "4",
+    "count": "5",
     "name": "Progressive Alarm Clock",
     "category": [
       "UI"
@@ -20,6 +20,7 @@
     "name": "Stat Training Speed",
     "category": [
       "TrainingSpeed",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -29,6 +30,7 @@
     "name": "Stat Training Stamina",
     "category": [
       "TrainingStamina",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -38,6 +40,7 @@
     "name": "Stat Training Power",
     "category": [
       "TrainingPower",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -47,6 +50,7 @@
     "name": "Stat Training Guts",
     "category": [
       "TrainingGuts",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -56,6 +60,7 @@
     "name": "Stat Training Wit",
     "category": [
       "TrainingWit",
+      "TrainingStat",
       "Training"
     ],
     "progression": true
@@ -65,6 +70,7 @@
     "name": "Rest Training",
     "category": [
       "TrainingRest",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true,
@@ -84,6 +90,7 @@
     "name": "Infirmary Training",
     "category": [
       "TrainingInfirmary",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
@@ -93,286 +100,1161 @@
     "name": "Recreation Training",
     "category": [
       "TrainingRecreation",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
   },
   {
     "count": "1",
-    "name": "Racing Training",
+    "name": "Racing Training G1",
     "category": [
       "TrainingRacing",
+      "TrainingNoneStat",
+      "Training"
+    ],
+    "progression": true
+  },
+   {
+    "count": "1",
+    "name": "Racing Training G2",
+    "category": [
+      "TrainingRacing",
+      "TrainingNoneStat",
       "Training"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Agnes Tachyon",
+    "count": "1",
+    "name": "Racing Training G3",
     "category": [
-      "Uma"
+      "TrainingRacing",
+      "TrainingNoneStat",
+      "Training"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Air Groove",
+    "count": "1",
+    "name": "Racing Training OP/Pre-OP",
     "category": [
-      "Uma"
+      "TrainingRacingStarting",
+      "Training"
     ],
     "progression": true
   },
-  {
-    "count": 1,
-    "name": "Biwa Hayahide",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Curren Chan",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Daiwa Scarlet",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "El Condor Pasa",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Gold Ship",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Grass Wonder",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Haru Urara",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "King Halo",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Maruzensky",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Matikanefukukitaru",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mayano Top Gun",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mejiro McQueen",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mejiro Ryan",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mihono Bourbon",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Narita Brian",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Narita Taishin",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Nice Nature",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Oguri Cap",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Rice Shower",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sakura Bakushin O",
-    "category": [
-      "Uma", 
-      "SuperUma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Seiun Sky",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Silence Suzuka",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-    {
-    "count": 1,
-    "name": "Smart Falcon",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Special Week",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Super Creek",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Symboli Rudolf",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "T.M. Opera O",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Taiki Shuttle",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Tokai Teio",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Vodka",
-    "category": [
-      "Uma",
-      "starting_uma"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Winning Ticket",
-    "category": [
-      "Uma"
-    ],
-    "progression": true
-  }
+{
+ "count": 1, 
+"name": "Admire Vega",
+"category": [
+"Uma",
+ "Admire Vega"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Agnes Digital",
+"category": [
+"Uma",
+ "Agnes Digital"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Agnes Tachyon",
+"category": [
+"Uma",
+ "Agnes Tachyon"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Air Groove",
+"category": [
+"Uma",
+ "Air Groove"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Air Messiah",
+"category": [
+"Uma",
+ "Air Messiah"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Air Shakur",
+"category": [
+"Uma",
+ "Air Shakur"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Aston Machan",
+"category": [
+"Uma",
+ "Aston Machan"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Bamboo Memory",
+"category": [
+"Uma",
+ "Bamboo Memory"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Believe",
+"category": [
+"Uma",
+ "Believe"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Biko Pegasus",
+"category": [
+"Uma",
+ "Biko Pegasus"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Biwa Hayahide",
+"category": [
+"Uma",
+ "Biwa Hayahide"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Bubble Gum Fellow",
+"category": [
+"Uma",
+ "Bubble Gum Fellow"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Buena Vista",
+"category": [
+"Uma",
+ "Buena Vista"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Calstone Light O",
+"category": [
+"Uma",
+ "Calstone Light O"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Cesario",
+"category": [
+"Uma",
+ "Cesario"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Cheval Grand",
+"category": [
+"Uma",
+ "Cheval Grand"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Chrono Genesis",
+"category": [
+"Uma",
+ "Chrono Genesis"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Copano Rickey",
+"category": [
+"Uma",
+ "Copano Rickey"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Curren Chan",
+"category": [
+"Uma",
+ "Curren Chan"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Daiichi Ruby",
+"category": [
+"Uma",
+ "Daiichi Ruby"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Daitaku Helios",
+"category": [
+"Uma",
+ "Daitaku Helios"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Daiwa Scarlet",
+"category": [
+"Uma",
+"starting uma",
+ "Daiwa Scarlet"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Dantsu Flame",
+"category": [
+"Uma",
+ "Dantsu Flame"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Dream Journey",
+"category": [
+"Uma",
+ "Dream Journey"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Duramente",
+"category": [
+"Uma",
+ "Duramente"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Durandal",
+"category": [
+"Uma",
+ "Durandal"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Eishin Flash",
+"category": [
+"Uma",
+ "Eishin Flash"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "El Condor Pasa",
+"category": [
+"Uma",
+ "El Condor Pasa"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Espoir City",
+"category": [
+"Uma",
+ "Espoir City"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fenomeno",
+"category": [
+"Uma",
+ "Fenomeno"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fine Motion",
+"category": [
+"Uma",
+ "Fine Motion"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fuji Kiseki",
+"category": [
+"Uma",
+ "Fuji Kiseki"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Furioso",
+"category": [
+"Uma",
+ "Furioso"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Fusaichi Pandora",
+"category": [
+"Uma",
+ "Fusaichi Pandora"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gentildonna",
+"category": [
+"Uma",
+ "Gentildonna"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gold City",
+"category": [
+"Uma",
+ "Gold City"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gold Ship",
+"category": [
+"Uma",
+"starting uma",
+ "Gold Ship"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Gran Alegria",
+"category": [
+"Uma",
+ "Gran Alegria"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Grass Wonder",
+"category": [
+"Uma",
+ "Grass Wonder"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Haru Urara",
+"category": [
+"Uma",
+"starting uma",
+ "Haru Urara"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hishi Akebono",
+"category": [
+"Uma",
+ "Hishi Akebono"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hishi Amazon",
+"category": [
+"Uma",
+ "Hishi Amazon"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hishi Miracle",
+"category": [
+"Uma",
+ "Hishi Miracle"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Hokko Tarumae",
+"category": [
+"Uma",
+ "Hokko Tarumae"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Ikuno Dictus",
+"category": [
+"Uma",
+ "Ikuno Dictus"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Inari One",
+"category": [
+"Uma",
+ "Inari One"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Ines Fujin",
+"category": [
+"Uma",
+ "Ines Fujin"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Jungle Pocket",
+"category": [
+"Uma",
+ "Jungle Pocket"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "K.S. Miracle",
+"category": [
+"Uma",
+ "K S Miracle"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Katsuragi Ace",
+"category": [
+"Uma",
+ "Katsuragi Ace"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Kawakami Princess",
+"category": [
+"Uma",
+ "Kawakami Princess"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "King Halo",
+"category": [
+"Uma",
+ "King Halo"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Kitasan Black",
+"category": [
+"Uma",
+ "Kitasan Black"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Loves Only You",
+"category": [
+"Uma",
+ "Loves Only You"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Manhattan Cafe",
+"category": [
+"Uma",
+ "Manhattan Cafe"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Maruzensky",
+"category": [
+"Uma",
+ "Maruzensky"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Marvelous Sunday",
+"category": [
+"Uma",
+ "Marvelous Sunday"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Matikanefukukitaru",
+"category": [
+"Uma",
+ "Matikanefukukitaru"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Matikanetannhauser",
+"category": [
+"Uma",
+ "Matikanetannhauser"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mayano Top Gun",
+"category": [
+"Uma",
+ "Mayano Top Gun"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Meisho Doto",
+"category": [
+"Uma",
+ "Meisho Doto"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Ardan",
+"category": [
+"Uma",
+ "Mejiro Ardan"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Bright",
+"category": [
+"Uma",
+ "Mejiro Bright"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Dober",
+"category": [
+"Uma",
+ "Mejiro Dober"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro McQueen",
+"category": [
+"Uma",
+ "Mejiro McQueen"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Palmer",
+"category": [
+"Uma",
+ "Mejiro Palmer"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Ramonu",
+"category": [
+"Uma",
+ "Mejiro Ramonu"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mejiro Ryan",
+"category": [
+"Uma",
+ "Mejiro Ryan"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mihono Boubon",
+"category": [
+"Uma",
+ "Mihono Boubon"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Mr. C.B.",
+"category": [
+"Uma",
+ "Mr C B"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Nakayama Festa",
+"category": [
+"Uma",
+ "Nakayama Festa"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Narita Brian",
+"category": [
+"Uma",
+ "Narita Brian"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Narita Taishin",
+"category": [
+"Uma",
+ "Narita Taishin"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Narita Top Road",
+"category": [
+"Uma",
+ "Narita Top Road"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Neo Universe",
+"category": [
+"Uma",
+ "Neo Universe"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Nice Nature",
+"category": [
+"Uma",
+ "Nice Nature"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Nishino Flower",
+"category": [
+"Uma",
+ "Nishino Flower"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "No Reason",
+"category": [
+"Uma",
+ "No Reason"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "North Flight",
+"category": [
+"Uma",
+ "North Flight"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Oguri Cap",
+"category": [
+"Uma",
+ "Oguri Cap"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Orfevre",
+"category": [
+"Uma",
+ "Orfevre"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Rhein Kraft",
+"category": [
+"Uma",
+ "Rhein Kraft"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Rice Shower",
+"category": [
+"Uma",
+ "Rice Shower"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Bakushin O",
+"category": [
+"Uma",
+"SuperUma",
+ "Sakura Bakushin O"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Chitose O",
+"category": [
+"Uma",
+ "Sakura Chitose O"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Chiyono O",
+"category": [
+"Uma",
+ "Sakura Chiyono O"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sakura Laurel",
+"category": [
+"Uma",
+ "Sakura Laurel"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Satono Crown",
+"category": [
+"Uma",
+ "Satono Crown"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Satono Diamond",
+"category": [
+"Uma",
+ "Satono Diamond"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Seeking the Pearl",
+"category": [
+"Uma",
+ "Seeking the Pearl"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Seiun Sky",
+"category": [
+"Uma",
+ "Seiun Sky"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Shinko Windy",
+"category": [
+"Uma",
+ "Shinko Windy"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Silence Suzuka",
+"category": [
+"Uma",
+ "Silence Suzuka"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sirius Symboli",
+"category": [
+"Uma",
+ "Sirius Symboli"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Smart Falcon",
+"category": [
+"Uma",
+ "Smart Falcon"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sounds of Earth",
+"category": [
+"Uma",
+ "Sounds of Earth"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Special Week",
+"category": [
+"Uma",
+ "Special Week"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Stay Gold",
+"category": [
+"Uma",
+ "Stay Gold"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Still In Love",
+"category": [
+"Uma",
+ "Still In Love"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Super Creek",
+"category": [
+"Uma",
+ "Super Creek"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Sweep Tosho",
+"category": [
+"Uma",
+ "Sweep Tosho"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Symboli Kris S",
+"category": [
+"Uma",
+ "Symboli Kris S"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Symboli Rudolf",
+"category": [
+"Uma",
+ "Symboli Rudolf"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Taiki Shuttle",
+"category": [
+"Uma",
+ "Taiki Shuttle"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tamamo Cross",
+"category": [
+"Uma",
+ "Tamamo Cross"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tanino Gimlet",
+"category": [
+"Uma",
+ "Tanino Gimlet"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tap Dance City",
+"category": [
+"Uma",
+ "Tap Dance City"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "TM Opera O",
+"category": [
+"Uma",
+ "TM Opera O"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tokai Teio",
+"category": [
+"Uma",
+ "Tokai Teio"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tosen Jordan",
+"category": [
+"Uma",
+ "Tosen Jordan"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Transcend",
+"category": [
+"Uma",
+ "Transcend"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Tsurumaru Tsuyoshi",
+"category": [
+"Uma",
+ "Tsurumaru Tsuyoshi"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Twin Turbo",
+"category": [
+"Uma",
+ "Twin Turbo"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Verxina",
+"category": [
+"Uma",
+ "Verxina"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Vivlos",
+"category": [
+"Uma",
+ "Vivlos"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Vodka",
+"category": [
+"Uma",
+"starting uma",
+ "Vodka"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Win Variation",
+"category": [
+"Uma",
+ "Win Variation"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Winning Ticket",
+"category": [
+"Uma",
+ "Winning Ticket"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Wonder Acute",
+"category": [
+"Uma",
+ "Wonder Acute"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Yaeno Muteki",
+"category": [
+"Uma",
+ "Yaeno Muteki"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Yamanin Zephr",
+"category": [
+"Uma",
+ "Yamanin Zephr"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Yukino Bijin",
+"category": [
+"Uma",
+ "Yukino Bijin"
+ ],
+"progression": true 
+},
+{
+ "count": 1, 
+"name": "Zenno Rob Roy",
+"category": [
+"Uma",
+ "Zenno Rob Roy"
+ ],
+"progression": true 
+}
+
 ]

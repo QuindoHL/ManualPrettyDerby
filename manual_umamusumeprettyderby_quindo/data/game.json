@@ -5,12 +5,21 @@
   "filler_item_name": "Broken Horseshoe",
   "starting_items": [
     {
-        "item_categories": ["starting_uma"],
+        "item_categories": ["starting uma"],
         "random": 1
     },
     {
-        "item_categories": ["Training"],
-        "random": 2
+        "item_categories": ["TrainingStat"],
+        "random": 1
+    },
+    {
+        "item_categories": ["TrainingNoneStat"],
+        "random": 1
+    },
+    {
+        "item_categories": ["TrainingRacingStarting"],
+        "random": 1
     }
+ 
   ]
 }

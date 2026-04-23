@@ -1,1 +1,536 @@
-{}
+{   
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+
+"starting uma": {
+    "hidden": true
+},
+"TrainingGuts": {
+    "hidden": true
+},
+"TrainingInfirmary": {
+    "hidden": true
+},
+"TrainingPower": {
+    "hidden": true
+},
+"TrainingRacing": {
+    "hidden": true
+},
+"TrainingRacingStarting": {
+    "hidden": true
+},
+"TrainingRecreation": {
+    "hidden": true
+},
+"TrainingRest": {
+    "hidden": true
+},
+"TrainingSkills": {
+    "hidden": true
+},
+"TrainingSpeed": {
+    "hidden": true
+},
+"TrainingStamina": {
+    "hidden": true
+},
+"TrainingWit": {
+    "hidden": true
+},
+"SuperUma": {
+    "hidden": true
+},
+"Admire Vega": {
+        "yaml_option": ["Admire_Vega"],
+        "hidden": true
+    },
+"Agnes Digital": {
+        "yaml_option": ["Agnes_Digital"],
+        "hidden": true
+    },
+"Agnes Tachyon": {
+        "yaml_option": ["Agnes_Tachyon"],
+        "hidden": true
+    },
+"Air Groove": {
+        "yaml_option": ["Air_Groove"],
+        "hidden": true
+    },
+"Air Messiah": {
+        "yaml_option": ["Air_Messiah"],
+        "hidden": true
+    },
+"Air Shakur": {
+        "yaml_option": ["Air_Shakur"],
+        "hidden": true
+    },
+"Aston Machan": {
+        "yaml_option": ["Aston_Machan"],
+        "hidden": true
+    },
+"Bamboo Memory": {
+        "yaml_option": ["Bamboo_Memory"],
+        "hidden": true
+    },
+"Believe": {
+        "yaml_option": ["Believe"],
+        "hidden": true
+    },
+"Biko Pegasus": {
+        "yaml_option": ["Biko_Pegasus"],
+        "hidden": true
+    },
+"Biwa Hayahide": {
+        "yaml_option": ["Biwa_Hayahide"],
+        "hidden": true
+    },
+"Bubble Gum Fellow": {
+        "yaml_option": ["Bubble_Gum_Fellow"],
+        "hidden": true
+    },
+"Buena Vista": {
+        "yaml_option": ["Buena_Vista"],
+        "hidden": true
+    },
+"Calstone Light O": {
+        "yaml_option": ["Calstone_Light_O"],
+        "hidden": true
+    },
+"Cesario": {
+        "yaml_option": ["Cesario"],
+        "hidden": true
+    },
+"Cheval Grand": {
+        "yaml_option": ["Cheval_Grand"],
+        "hidden": true
+    },
+"Chrono Genesis": {
+        "yaml_option": ["Chrono_Genesis"],
+        "hidden": true
+    },
+"Copano Rickey": {
+        "yaml_option": ["Copano_Rickey"],
+        "hidden": true
+    },
+"Curren Chan": {
+        "yaml_option": ["Curren_Chan"],
+        "hidden": true
+    },
+"Daiichi Ruby": {
+        "yaml_option": ["Daiichi_Ruby"],
+        "hidden": true
+    },
+"Daitaku Helios": {
+        "yaml_option": ["Daitaku_Helios"],
+        "hidden": true
+    },
+"Daiwa Scarlet": {
+        "yaml_option": ["Daiwa_Scarlet"],
+        "hidden": true
+    },
+"Dantsu Flame": {
+        "yaml_option": ["Dantsu_Flame"],
+        "hidden": true
+    },
+"Dream Journey": {
+        "yaml_option": ["Dream_Journey"],
+        "hidden": true
+    },
+"Duramente": {
+        "yaml_option": ["Duramente"],
+        "hidden": true
+    },
+"Durandal": {
+        "yaml_option": ["Durandal"],
+        "hidden": true
+    },
+"Eishin Flash": {
+        "yaml_option": ["Eishin_Flash"],
+        "hidden": true
+    },
+"El Condor Pasa": {
+        "yaml_option": ["El_Condor_Pasa"],
+        "hidden": true
+    },
+"Espoir City": {
+        "yaml_option": ["Espoir_City"],
+        "hidden": true
+    },
+"Fenomeno": {
+        "yaml_option": ["Fenomeno"],
+        "hidden": true
+    },
+"Fine Motion": {
+        "yaml_option": ["Fine_Motion"],
+        "hidden": true
+    },
+"Fuji Kiseki": {
+        "yaml_option": ["Fuji_Kiseki"],
+        "hidden": true
+    },
+"Furioso": {
+        "yaml_option": ["Furioso"],
+        "hidden": true
+    },
+"Fusaichi Pandora": {
+        "yaml_option": ["Fusaichi_Pandora"],
+        "hidden": true
+    },
+"Gentildonna": {
+        "yaml_option": ["Gentildonna"],
+        "hidden": true
+    },
+"Gold City": {
+        "yaml_option": ["Gold_City"],
+        "hidden": true
+    },
+"Gold Ship": {
+        "yaml_option": ["Gold_Ship"],
+        "hidden": true
+    },
+"Gran Alegria": {
+        "yaml_option": ["Gran_Alegria"],
+        "hidden": true
+    },
+"Grass Wonder": {
+        "yaml_option": ["Grass_Wonder"],
+        "hidden": true
+    },
+"Haru Urara": {
+        "yaml_option": ["Haru_Urara"],
+        "hidden": true
+    },
+"Hishi Akebono": {
+        "yaml_option": ["Hishi_Akebono"],
+        "hidden": true
+    },
+"Hishi Amazon": {
+        "yaml_option": ["Hishi_Amazon"],
+        "hidden": true
+    },
+"Hishi Miracle": {
+        "yaml_option": ["Hishi_Miracle"],
+        "hidden": true
+    },
+"Hokko Tarumae": {
+        "yaml_option": ["Hokko_Tarumae"],
+        "hidden": true
+    },
+"Ikuno Dictus": {
+        "yaml_option": ["Ikuno_Dictus"],
+        "hidden": true
+    },
+"Inari One": {
+        "yaml_option": ["Inari_One"],
+        "hidden": true
+    },
+"Ines Fujin": {
+        "yaml_option": ["Ines_Fujin"],
+        "hidden": true
+    },
+"Jungle Pocket": {
+        "yaml_option": ["Jungle_Pocket"],
+        "hidden": true
+    },
+"K S Miracle": {
+        "yaml_option": ["K_S_Miracle"],
+        "hidden": true
+    },
+"Katsuragi Ace": {
+        "yaml_option": ["Katsuragi_Ace"],
+        "hidden": true
+    },
+"Kawakami Princess": {
+        "yaml_option": ["Kawakami_Princess"],
+        "hidden": true
+    },
+"King Halo": {
+        "yaml_option": ["King_Halo"],
+        "hidden": true
+    },
+"Kitasan Black": {
+        "yaml_option": ["Kitasan_Black"],
+        "hidden": true
+    },
+"Loves Only You": {
+        "yaml_option": ["Loves_Only_You"],
+        "hidden": true
+    },
+"Manhattan Cafe": {
+        "yaml_option": ["Manhattan_Cafe"],
+        "hidden": true
+    },
+"Maruzensky": {
+        "yaml_option": ["Maruzensky"],
+        "hidden": true
+    },
+"Marvelous Sunday": {
+        "yaml_option": ["Marvelous_Sunday"],
+        "hidden": true
+    },
+"Matikanefukukitaru": {
+        "yaml_option": ["Matikanefukukitaru"],
+        "hidden": true
+    },
+"Matikanetannhauser": {
+        "yaml_option": ["Matikanetannhauser"],
+        "hidden": true
+    },
+"Mayano Top Gun": {
+        "yaml_option": ["Mayano_Top_Gun"],
+        "hidden": true
+    },
+"Meisho Doto": {
+        "yaml_option": ["Meisho_Doto"],
+        "hidden": true
+    },
+"Mejiro Ardan": {
+        "yaml_option": ["Mejiro_Ardan"],
+        "hidden": true
+    },
+"Mejiro Bright": {
+        "yaml_option": ["Mejiro_Bright"],
+        "hidden": true
+    },
+"Mejiro Dober": {
+        "yaml_option": ["Mejiro_Dober"],
+        "hidden": true
+    },
+"Mejiro McQueen": {
+        "yaml_option": ["Mejiro_McQueen"],
+        "hidden": true
+    },
+"Mejiro Palmer": {
+        "yaml_option": ["Mejiro_Palmer"],
+        "hidden": true
+    },
+"Mejiro Ramonu": {
+        "yaml_option": ["Mejiro_Ramonu"],
+        "hidden": true
+    },
+"Mejiro Ryan": {
+        "yaml_option": ["Mejiro_Ryan"],
+        "hidden": true
+    },
+"Mihono Boubon": {
+        "yaml_option": ["Mihono_Boubon"],
+        "hidden": true
+    },
+"Mr C B": {
+        "yaml_option": ["Mr_C_B"],
+        "hidden": true
+    },
+"Nakayama Festa": {
+        "yaml_option": ["Nakayama_Festa"],
+        "hidden": true
+    },
+"Narita Brian": {
+        "yaml_option": ["Narita_Brian"],
+        "hidden": true
+    },
+"Narita Taishin": {
+        "yaml_option": ["Narita_Taishin"],
+        "hidden": true
+    },
+"Narita Top Road": {
+        "yaml_option": ["Narita_Top_Road"],
+        "hidden": true
+    },
+"Neo Universe": {
+        "yaml_option": ["Neo_Universe"],
+        "hidden": true
+    },
+"Nice Nature": {
+        "yaml_option": ["Nice_Nature"],
+        "hidden": true
+    },
+"Nishino Flower": {
+        "yaml_option": ["Nishino_Flower"],
+        "hidden": true
+    },
+"No Reason": {
+        "yaml_option": ["No_Reason"],
+        "hidden": true
+    },
+"North Flight": {
+        "yaml_option": ["North_Flight"],
+        "hidden": true
+    },
+"Oguri Cap": {
+        "yaml_option": ["Oguri_Cap"],
+        "hidden": true
+    },
+"Orfevre": {
+        "yaml_option": ["Orfevre"],
+        "hidden": true
+    },
+"Rhein Kraft": {
+        "yaml_option": ["Rhein_Kraft"],
+        "hidden": true
+    },
+"Rice Shower": {
+        "yaml_option": ["Rice_Shower"],
+        "hidden": true
+    },
+"Sakura Bakushin O": {
+        "yaml_option": ["Sakura_Bakushin_O"],
+        "hidden": true
+    },
+"Sakura Chitose O": {
+        "yaml_option": ["Sakura_Chitose_O"],
+        "hidden": true
+    },
+"Sakura Chiyono O": {
+        "yaml_option": ["Sakura_Chiyono_O"],
+        "hidden": true
+    },
+"Sakura Laurel": {
+        "yaml_option": ["Sakura_Laurel"],
+        "hidden": true
+    },
+"Satono Crown": {
+        "yaml_option": ["Satono_Crown"],
+        "hidden": true
+    },
+"Satono Diamond": {
+        "yaml_option": ["Satono_Diamond"],
+        "hidden": true
+    },
+"Seeking the Pearl": {
+        "yaml_option": ["Seeking_the_Pearl"],
+        "hidden": true
+    },
+"Seiun Sky": {
+        "yaml_option": ["Seiun_Sky"],
+        "hidden": true
+    },
+"Shinko Windy": {
+        "yaml_option": ["Shinko_Windy"],
+        "hidden": true
+    },
+"Silence Suzuka": {
+        "yaml_option": ["Silence_Suzuka"],
+        "hidden": true
+    },
+"Sirius Symboli": {
+        "yaml_option": ["Sirius_Symboli"],
+        "hidden": true
+    },
+"Smart Falcon": {
+        "yaml_option": ["Smart_Falcon"],
+        "hidden": true
+    },
+"Sounds of Earth": {
+        "yaml_option": ["Sounds_of_Earth"],
+        "hidden": true
+    },
+"Special Week": {
+        "yaml_option": ["Special_Week"],
+        "hidden": true
+    },
+"Stay Gold": {
+        "yaml_option": ["Stay_Gold"],
+        "hidden": true
+    },
+"Still In Love": {
+        "yaml_option": ["Still_In_Love"],
+        "hidden": true
+    },
+"Super Creek": {
+        "yaml_option": ["Super_Creek"],
+        "hidden": true
+    },
+"Sweep Tosho": {
+        "yaml_option": ["Sweep_Tosho"],
+        "hidden": true
+    },
+"Symboli Kris S": {
+        "yaml_option": ["Symboli_Kris_S"],
+        "hidden": true
+    },
+"Symboli Rudolf": {
+        "yaml_option": ["Symboli_Rudolf"],
+        "hidden": true
+    },
+"Taiki Shuttle": {
+        "yaml_option": ["Taiki_Shuttle"],
+        "hidden": true
+    },
+"Tamamo Cross": {
+        "yaml_option": ["Tamamo_Cross"],
+        "hidden": true
+    },
+"Tanino Gimlet": {
+        "yaml_option": ["Tanino_Gimlet"],
+        "hidden": true
+    },
+"Tap Dance City": {
+        "yaml_option": ["Tap_Dance_City"],
+        "hidden": true
+    },
+"TM Opera O": {
+        "yaml_option": ["TM_Opera_O"],
+        "hidden": true
+    },
+"Tokai Teio": {
+        "yaml_option": ["Tokai_Teio"],
+        "hidden": true
+    },
+"Tosen Jordan": {
+        "yaml_option": ["Tosen_Jordan"],
+        "hidden": true
+    },
+"Transcend": {
+        "yaml_option": ["Transcend"],
+        "hidden": true
+    },
+"Tsurumaru Tsuyoshi": {
+        "yaml_option": ["Tsurumaru_Tsuyoshi"],
+        "hidden": true
+    },
+"Twin Turbo": {
+        "yaml_option": ["Twin_Turbo"],
+        "hidden": true
+    },
+"Verxina": {
+        "yaml_option": ["Verxina"],
+        "hidden": true
+    },
+"Vivlos": {
+        "yaml_option": ["Vivlos"],
+        "hidden": true
+    },
+"Vodka": {
+        "yaml_option": ["Vodka"],
+        "hidden": true
+    },
+"Win Variation": {
+        "yaml_option": ["Win_Variation"],
+        "hidden": true
+    },
+"Winning Ticket": {
+        "yaml_option": ["Winning_Ticket"],
+        "hidden": true
+    },
+"Wonder Acute": {
+        "yaml_option": ["Wonder_Acute"],
+        "hidden": true
+    },
+"Yaeno Muteki": {
+        "yaml_option": ["Yaeno_Muteki"],
+        "hidden": true
+    },
+"Yamanin Zephr": {
+        "yaml_option": ["Yamanin_Zephr"],
+        "hidden": true
+    },
+"Yukino Bijin": {
+        "yaml_option": ["Yukino_Bijin"],
+        "hidden": true
+    },
+"Zenno Rob Roy": {
+        "yaml_option": ["Zenno_Rob_Roy"],
+        "hidden": true
+    }
+
+}

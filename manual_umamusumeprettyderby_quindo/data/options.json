@@ -22,10 +22,6 @@
         }
     },
     "user": {
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
         "Example_Toggle":{
             "description": [
                 "This is a Toggle",
@@ -35,38 +31,1000 @@
             "default": false,
             "group": "Example Options"
         },
-        "Example_Choice":{
-            "type": "Choice",
+"Unity_Cup":{
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Enables Unity Cup Checks"
             ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
+            "type": "Toggle",
+            "default": true,
+            "group": "Unity_Cup"
         },
-        "Example_Range":{
-            "type": "Range",
+"Admire_Vega":{
             "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+
             ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Agnes_Digital":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Agnes_Tachyon":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Air_Groove":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Air_Messiah":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Air_Shakur":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Aston_Machan":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Bamboo_Memory":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Believe":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Biko_Pegasus":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Biwa_Hayahide":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Bubble_Gum_Fellow":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Buena_Vista":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Calstone_Light_O":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Cesario":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Cheval_Grand":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Chrono_Genesis":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Copano_Rickey":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Curren_Chan":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Daiichi_Ruby":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Daitaku_Helios":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Daiwa_Scarlet":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Dantsu_Flame":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Dream_Journey":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Duramente":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Durandal":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Eishin_Flash":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"El_Condor_Pasa":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Espoir_City":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Fenomeno":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Fine_Motion":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Fuji_Kiseki":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Furioso":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Fusaichi_Pandora":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Gentildonna":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Gold_City":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Gold_Ship":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Gran_Alegria":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Grass_Wonder":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Haru_Urara":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Hishi_Akebono":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Hishi_Amazon":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Hishi_Miracle":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Hokko_Tarumae":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Ikuno_Dictus":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Inari_One":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Ines_Fujin":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Jungle_Pocket":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"K_S_Miracle":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Katsuragi_Ace":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Kawakami_Princess":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"King_Halo":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Kitasan_Black":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Loves_Only_You":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Manhattan_Cafe":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Maruzensky":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Marvelous_Sunday":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Matikanefukukitaru":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Matikanetannhauser":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Mayano_Top_Gun":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Meisho_Doto":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Mejiro_Ardan":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Mejiro_Bright":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Mejiro_Dober":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Mejiro_McQueen":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Mejiro_Palmer":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Mejiro_Ramonu":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Mejiro_Ryan":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Mihono_Boubon":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Mr_C_B":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Nakayama_Festa":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Narita_Brian":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Narita_Taishin":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Narita_Top_Road":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Neo_Universe":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Nice_Nature":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Nishino_Flower":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"No_Reason":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"North_Flight":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Oguri_Cap":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Orfevre":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Rhein_Kraft":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Rice_Shower":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Sakura_Bakushin_O":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Sakura_Chitose_O":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Sakura_Chiyono_O":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Sakura_Laurel":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Satono_Crown":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Satono_Diamond":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Seeking_the_Pearl":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Seiun_Sky":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Shinko_Windy":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Silence_Suzuka":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Sirius_Symboli":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Smart_Falcon":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Sounds_of_Earth":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Special_Week":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Stay_Gold":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Still_In_Love":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Super_Creek":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Sweep_Tosho":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Symboli_Kris_S":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Symboli_Rudolf":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Taiki_Shuttle":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Tamamo_Cross":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Tanino_Gimlet":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Tap_Dance_City":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"TM_Opera_O":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Tokai_Teio":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Tosen_Jordan":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Transcend":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Tsurumaru_Tsuyoshi":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Twin_Turbo":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Verxina":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Vivlos":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Vodka":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Win_Variation":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Winning_Ticket":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group":  "Game Options"
+        },
+"Wonder_Acute":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Yaeno_Muteki":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Yamanin_Zephr":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Yukino_Bijin":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
+        },
+"Zenno_Rob_Roy":{
+            "description": [
+
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group":  "Game Options"
         },
 
-        "DLC_enabled":{
+        "_DLC_enabled":{
             "display_name": "DLC Enabled",
             "description": "Is the Dlc enabled?",
             "type": "Toggle",
