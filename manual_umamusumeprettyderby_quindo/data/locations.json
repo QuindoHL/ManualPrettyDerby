@@ -116,12 +116,6 @@
     "requires": "|@Uma| AND |@Training|"
   },
   {
-    "name": "Failed Infirmiry Recovery",
-    "region": "Hard",
-    "category": ["Training Result"],
-    "requires": "|@Uma| AND |@TrainingInfirmary|"
-  },
-  {
     "name": "Facility Level 2",
     "region": "Easy",
     "category": ["Training Result"],
@@ -152,7 +146,7 @@
     "requires": "|@Uma| AND |@TrainingInfirmary|"
   },
   {
-    "name": "Acupunture Success",
+    "name": "Acupunture Applied",
     "region": "Complete Luck",
     "category": ["Training Result"],
     "requires": "|@Uma|"
@@ -210,7 +204,7 @@
     "yaml_option": ["Gold_Ship"],
     "region": "Medium",
     "category": ["Race Result"],
-    "requires": "|Gold Ship| AND |@Training| AND |@TrainingRest|"
+    "requires": "|@Gold Ship| AND |@Training| AND |@TrainingRest|"
   },
   {
     "name": "Log into the Game",
@@ -302,7 +296,7 @@
     "requires": "|@Uma|"
   },
   {
-    "name": "Race Placement 10th-5th",
+    "name": "Race Placement 15th-5th",
     "category": ["Race Result"],
     "requires": "|@Uma| AND |@Training| AND |@TrainingRest|"
   },
