@@ -22,12 +22,12 @@
         }
     },
     "user": {
-        "Example_Toggle":{
+        "example_toggle":{
+            "type": "Toggle",
             "description": [
                 "This is a Toggle",
                 "A simple boolean, aka True or False set the initial value with \"default\""
             ],
-            "type": "Toggle",
             "default": false,
             "group": "Example Options"
         },
@@ -40,985 +40,739 @@
             "group": "Unity_Cup"
         },
 "Admire_Vega":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Agnes_Digital":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Agnes_Tachyon":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Air_Groove":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Air_Messiah":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Air_Shakur":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Aston_Machan":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Bamboo_Memory":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Believe":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Biko_Pegasus":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Biwa_Hayahide":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Bubble_Gum_Fellow":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Buena_Vista":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Calstone_Light_O":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Cesario":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Cheval_Grand":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Chrono_Genesis":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Copano_Rickey":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Curren_Chan":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Daiichi_Ruby":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Daitaku_Helios":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Daiwa_Scarlet":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Dantsu_Flame":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Dream_Journey":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Duramente":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Durandal":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Eishin_Flash":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "El_Condor_Pasa":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Espoir_City":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Fenomeno":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Fine_Motion":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Fuji_Kiseki":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Furioso":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Fusaichi_Pandora":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Gentildonna":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Gold_City":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Gold_Ship":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Gran_Alegria":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Grass_Wonder":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Haru_Urara":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Hishi_Akebono":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Hishi_Amazon":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Hishi_Miracle":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Hokko_Tarumae":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Ikuno_Dictus":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Inari_One":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Ines_Fujin":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Jungle_Pocket":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "K_S_Miracle":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Katsuragi_Ace":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Kawakami_Princess":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "King_Halo":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Kitasan_Black":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Loves_Only_You":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Manhattan_Cafe":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Maruzensky":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Marvelous_Sunday":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Matikanefukukitaru":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Matikanetannhauser":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Mayano_Top_Gun":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Meisho_Doto":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Mejiro_Ardan":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Mejiro_Bright":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Mejiro_Dober":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Mejiro_McQueen":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Mejiro_Palmer":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Mejiro_Ramonu":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Mejiro_Ryan":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Mihono_Boubon":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Mr_C_B":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Nakayama_Festa":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Narita_Brian":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Narita_Taishin":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Narita_Top_Road":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Neo_Universe":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Nice_Nature":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Nishino_Flower":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "No_Reason":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "North_Flight":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Oguri_Cap":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Orfevre":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Rhein_Kraft":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Rice_Shower":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Sakura_Bakushin_O":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Sakura_Chitose_O":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Sakura_Chiyono_O":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Sakura_Laurel":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Satono_Crown":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Satono_Diamond":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Seeking_the_Pearl":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Seiun_Sky":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Shinko_Windy":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Silence_Suzuka":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Sirius_Symboli":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Smart_Falcon":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Sounds_of_Earth":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Special_Week":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Stay_Gold":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Still_In_Love":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Super_Creek":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Sweep_Tosho":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Symboli_Kris_S":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Symboli_Rudolf":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Taiki_Shuttle":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Tamamo_Cross":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Tanino_Gimlet":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Tap_Dance_City":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "TM_Opera_O":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Tokai_Teio":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Tosen_Jordan":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Transcend":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Tsurumaru_Tsuyoshi":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Twin_Turbo":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Verxina":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Vivlos":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Vodka":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Win_Variation":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Winning_Ticket":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": true,
             "group":  "Game Options"
         },
 "Wonder_Acute":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Yaeno_Muteki":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Yamanin_Zephr":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Yukino_Bijin":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
         },
 "Zenno_Rob_Roy":{
-            "description": [
-
-            ],
+            "description": ["Toggle Specific Uma"],
             "type": "Toggle",
             "default": false,
             "group":  "Game Options"
